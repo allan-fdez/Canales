@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tve-id="DistritoComedia", group-tittle="Entretenimiento",Distrito Comedia
+https://espare.tk/live/distritocomedia_lat.m3u8?token=KoXgNMEs2OUSN_yb_hVzpg&expires=1609190446
+
+#EXTINF:-1 tve-id="Azteca7", group-tittle="Entretenimiento",Azteca 7
+https://espare.tk/live/azteca7_lat.m3u8?token=-UWlPSkS0r9kyVs8NppoBw&expires=1609190750
+
+#EXTINF:-1 tve-id="FoxAction", group-tittle="Entretenimiento",Fox Action
+https://espare.tk/live/1026.m3u8?token=y0uKpF7AObRWGgzO304-fA&expires=1609190881
+
+#EXTINF:-1 tve-id="Azteca7", group-tittle="Entretenimiento",Azteca 7
+
+#EXTINF:-1 tve-id="Azteca7", group-tittle="Entretenimiento",Azteca 7
+
+#EXTINF:-1 tve-id="Azteca7", group-tittle="Entretenimiento",Azteca 7
+
+#EXTINF:-1 tve-id="Azteca7", group-tittle="Entretenimiento",Azteca 7
+
+#EXTINF:-1 tve-id="Azteca7", group-tittle="Entretenimiento",Azteca 7
