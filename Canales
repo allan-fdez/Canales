@@ -3,12 +3,13 @@
 https://espare.tk/live/distritocomedia_lat.m3u8?token=KoXgNMEs2OUSN_yb_hVzpg&expires=1609190446
 
 #EXTINF:-1 tve-id="Azteca7", group-tittle="Entretenimiento",Azteca 7
-https://espare.tk/live/azteca7_lat.m3u8?token=-UWlPSkS0r9kyVs8NppoBw&expires=1609190750
+https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/yv4z9a.m3u8?s=8LXy7q_Uy8_X-rrHXvcNQQ&e=1609706261
 
 #EXTINF:-1 tve-id="FoxAction", group-tittle="Entretenimiento",Fox Action
 https://espare.tk/live/1026.m3u8?token=y0uKpF7AObRWGgzO304-fA&expires=1609190881
 
-#EXTINF:-1 tve-id="Azteca7", group-tittle="Entretenimiento",Azteca 7
+#EXTINF:-1 tve-id="Azteca7", group-tittle="Entretenimiento",Canal 5
+https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/da0s08.m3u8?s=-HWsEyQQRJqSG44t1rnCYQ&e=1609706153
 
 #EXTINF:-1 tve-id="Azteca7", group-tittle="Entretenimiento",Azteca 7
 
