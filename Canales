@@ -80,8 +80,8 @@ https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/vgwtkzk.m3u8?s=1ocKqTWKZEAlVprgMT
 #EXTINF:-1 tve-id="Tooncast", group-tittle="Entretenimiento",Tooncast
 https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/9efxxdu.m3u8?s=li5QxWni1MDen64nJ6YwRA&e=1609742990
 
-#EXTINF:-1 tve-id="Azteca7", group-tittle="Entretenimiento",Azteca 7
-
+#EXTINF:-1 tve-id="Teennick", group-tittle="Entretenimiento", Teen Nick
+https://live.televisiongratishd.com/tvplus2021/111_.m3u8?token=cvb14DfQFe5h61XHM-5Sqw&expires=1609795774&ip=181.115.62.48
 
 #EXTINF:-1 tve-id="Azteca7", group-tittle="Entretenimiento",Azteca 7
 
