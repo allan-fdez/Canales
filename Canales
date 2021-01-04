@@ -1,20 +1,99 @@
 #EXTM3U
 #EXTINF:-1 tve-id="DistritoComedia", group-tittle="Entretenimiento",Distrito Comedia
-https://espare.tk/live/distritocomedia_lat.m3u8?token=KoXgNMEs2OUSN_yb_hVzpg&expires=1609190446
+https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/3cmcveklru0.m3u8?s=2UX3oRUYj5vHP_R2IFMi4A&e=1609740767
 
 #EXTINF:-1 tve-id="Azteca7", group-tittle="Entretenimiento",Azteca 7
-https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/yv4z9a.m3u8?s=8LXy7q_Uy8_X-rrHXvcNQQ&e=1609706261
+https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/yv4z9a.m3u8?s=g4Crm3QwdH4_3dQwYsEmfQ&e=1609741057
 
-#EXTINF:-1 tve-id="FoxAction", group-tittle="Entretenimiento",Fox Action
-https://espare.tk/live/1026.m3u8?token=y0uKpF7AObRWGgzO304-fA&expires=1609190881
+#EXTINF:-1 tve-id="Canal5", group-tittle="Entretenimiento",Canal 5
+https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/da0s08.m3u8?s=qc9nUnMVSwewsGGT3eKOaw&e=1609741108
 
-#EXTINF:-1 tve-id="Azteca7", group-tittle="Entretenimiento",Canal 5
-https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/da0s08.m3u8?s=-HWsEyQQRJqSG44t1rnCYQ&e=1609706153
+#EXTINF:-1 tve-id="TeLeFe", group-tittle="Entretenimiento", TeLeFe
+https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/x8rbhuvs3uyfie.m3u8?s=aKcxd8gJtl1A12rHl6xxaQ&e=1609741173
+
+#EXTINF:-1 tve-id="tlnovelas", group-tittle="Entretenimiento",tlnovelas
+https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/lmjmb1tcvkbgm0.m3u8?s=oxQzLI2xfHHW0fuQ6s0MIQ&e=1609741305
+
+#EXTINF:-1 tve-id="FoxAction", group-tittle="Entretenimiento",FoxAction
+https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/4612rwe.m3u8?s=0zLTriiqH58LWXqrzgzlZQ&e=1609741406
+
+#EXTINF:-1 tve-id="FoxSeries", group-tittle="Entretenimiento",FoxSeries
+https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/in515ybo3y.m3u8?s=wK-GHgFCtnGINSeT8NeU_A&e=1609741489
+
+#EXTINF:-1 tve-id="FoxFamily", group-tittle="Entretenimiento",FoxFamily
+https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/goks9npik9.m3u8?s=BQL9XCEHnzaqoIE7ofmfMA&e=1609741552
+
+#EXTINF:-1 tve-id="FoxCinema", group-tittle="Entretenimiento",FoxCinema
+https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/5s69x53079q85.m3u8?s=xa3nPjes8vC-7maCZQm9aA&e=1609741632
+
+#EXTINF:-1 tve-id="FoxComedy", group-tittle="Entretenimiento",FoxComedy
+https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/pnc0det5nknvqo.m3u8?s=x-KbmkCghJ_n0z8eEr6zxA&e=1609741702
+
+#EXTINF:-1 tve-id="FoxClassics", group-tittle="Entretenimiento",FoxClassics
+https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/nmgmf0p714cb.m3u8?s=93T2p6GNieMm3KqrtSgxLg&e=1609741769
+
+#EXTINF:-1 tve-id="FoxMovies", group-tittle="Entretenimiento",FoxMovies
+https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/4dtc368405sw4mo.m3u8?s=63_N8AJ8XWJRucpAUjKxEA&e=1609741846
+
+#EXTINF:-1 tve-id="HBOLatino", group-tittle="Entretenimiento",HBOLatino
+https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/lbqtn3.m3u8?s=GWICRopAHE4lkhJNtWechQ&e=1609741926
+
+#EXTINF:-1 tve-id="HBO2", group-tittle="Entretenimiento",HBO2
+https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/x5r58d0omlmqph.m3u8?s=FD0s6IYvVUDKukjSglWHBQ&e=1609741985
+
+#EXTINF:-1 tve-id="HBOPlus", group-tittle="Entretenimiento",HBOPlus
+https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/3dgzjbpy.m3u8?s=OgUW8q6EVuqueK5rbTi_Yw&e=1609742127
+
+#EXTINF:-1 tve-id="HBOFamily", group-tittle="Entretenimiento",HBOFamily
+https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/mfobze65eqg.m3u8?s=dw4ykZGDUNT1yTh5u9X39Q&e=1609742206
+
+#EXTINF:-1 tve-id="HBOSignature", group-tittle="Entretenimiento",HBOSignature
+https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/g05mnm.m3u8?s=i7EVVqbQpSjJU2dM30Y8Zw&e=1609742268
+
+#EXTINF:-1 tve-id="HBOXtreme", group-tittle="Entretenimiento",HBOXtreme
+https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/way71f4yp5a3.m3u8?s=aYX9y0qFlbQY9FxWuQ8jzA&e=1609742337
+
+#EXTINF:-1 tve-id="HBOMundi", group-tittle="Entretenimiento",HBOMundi
+https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/8nviuzdhm5jnu.m3u8?s=IijYlFkFmVqbsBbbSXS5qQ&e=1609742401
+
+#EXTINF:-1 tve-id="GoldenPlus", group-tittle="Entretenimiento",Golden Plus
+https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/daw8b.m3u8?s=e1QNdfgwiDL-S1a_cSQWmQ&e=1609742467
+
+#EXTINF:-1 tve-id="GoldenEdge", group-tittle="Entretenimiento",Golden Edge
+https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/aef8t7z.m3u8?s=IstW9119BZH4Lo1y5ZR0xA&e=1609742530
+
+#EXTINF:-1 tve-id="TNTSeries", group-tittle="Entretenimiento",TNT Series
+https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/uw2t3eem.m3u8?s=RxLarV4ldQZR8-5HMq2tgw&e=1609742583
+
+#EXTINF:-1 tve-id="SyFy", group-tittle="Entretenimiento",SyFy
+https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/u7rbhb.m3u8?s=AXuuRQhAvO-QC4uLf2ljLw&e=1609742655
+
+#EXTINF:-1 tve-id="Space", group-tittle="Entretenimiento",Space
+https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/me4gtt8v3fmket.m3u8?s=OMnPmuaumyiE0bPWTW-WFg&e=1609742714
+
+#EXTINF:-1 tve-id="ParamountChannel", group-tittle="Entretenimiento",Paramount Channel
+https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/vwchy5d.m3u8?s=o7o7ryl3FkPyhZgtE1hpvg&e=1609742769
+
+#EXTINF:-1 tve-id="Nicktoons", group-tittle="Entretenimiento",Nicktoons
+https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/vgwtkzk.m3u8?s=1ocKqTWKZEAlVprgMT2ByA&e=1609742904
+
+#EXTINF:-1 tve-id="Tooncast", group-tittle="Entretenimiento",Tooncast
+https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/9efxxdu.m3u8?s=li5QxWni1MDen64nJ6YwRA&e=1609742990
 
 #EXTINF:-1 tve-id="Azteca7", group-tittle="Entretenimiento",Azteca 7
 
-#EXTINF:-1 tve-id="Azteca7", group-tittle="Entretenimiento",Azteca 7
 
 #EXTINF:-1 tve-id="Azteca7", group-tittle="Entretenimiento",Azteca 7
 
+
 #EXTINF:-1 tve-id="Azteca7", group-tittle="Entretenimiento",Azteca 7
+
+
+#EXTINF:-1 tve-id="Azteca7", group-tittle="Entretenimiento",Azteca 7
+
+
+#EXTINF:-1 tve-id="Azteca7", group-tittle="Entretenimiento",Azteca 7
+
+
+
+
