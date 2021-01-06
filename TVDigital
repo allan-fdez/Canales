@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="DistritoComedia" group-title="Entretenimiento",Distrito Comedia
-https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/3cmcveklru0.m3u8?s=cWMikC-L_LxWL94V2hI-pw&e=1609979933
+https://live.televisiongratishd.com/tvplus2021/47_.m3u8?token=5YxIeQ97WrCimY5BRNXZhw&expires=1609981138&ip=181.115.62.48
 
 #EXTINF:-1 tvg-id="Azteca7" group-title="Entretenimiento",Azteca 7
-https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/yv4z9a.m3u8?s=4brQKLfeJNmNA0EkrjKUOw&e=1609979860
+https://live.televisiongratishd.com/tvplus2021/1_.m3u8?token=f7Vybt9r7Hfip3XOOIFG5A&expires=1609980996&ip=181.115.62.48
 
 #EXTINF:-1 tvg-id="Canal5" group-title="Entretenimiento",Canal 5
-https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/da0s08.m3u8?s=HgAS1JVe60zN72EfS5qzNA&e=1609979763
+https://live.televisiongratishd.com/tvplus2021/2_.m3u8?token=8Yj_Ficy6lhg6om1J4ip6w&expires=1609981081&ip=181.115.62.48
 
 #EXTINF:-1 tvg-id="TeLeFe" group-title="Entretenimiento", TeLeFe
 https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/x8rbhuvs3uyfie.m3u8?s=aKcxd8gJtl1A12rHl6xxaQ&e=1609741173
@@ -78,10 +78,10 @@ https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/vwchy5d.m3u8?s=o7o7ryl3FkPyhZgtE1
 https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/vgwtkzk.m3u8?s=1ocKqTWKZEAlVprgMT2ByA&e=1609742904
 
 #EXTINF:-1 tvg-id="Tooncast" group-title="Infantil",Tooncast
-https://live.televisiongratishd.com/tvplus2021/116_.m3u8?token=rI8FkFrSRTBrWG9fB31LMg&expires=1609799390&ip=181.115.62.48
+https://live.televisiongratishd.com/tvplus2021/116_.m3u8?token=9sG7TY-BgOhqEUxviRqwxw&expires=1609981265&ip=181.115.62.48
 
 #EXTINF:-1 tvg-id="Teennick" group-title="Infantil", Teen Nick
-https://live.televisiongratishd.com/tvplus2021/111_.m3u8?token=cvb14DfQFe5h61XHM-5Sqw&expires=1609795774&ip=181.115.62.48
+https://live.televisiongratishd.com/tvplus2021/111_.m3u8?token=PRSQ2PEUEt_R8Bj1rX8Clw&expires=1609981199&ip=181.115.62.48
 
 #EXTINF:-1 tvg-id="Unicable" group-title="Entretenimiento", Unicable
 https://live.televisiongratishd.com/tvplus2021/63_.m3u8?token=qfH2RwgElviXhPrAdZq7Yw&expires=1609798942&ip=181.115.62.48
