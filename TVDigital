@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="DistritoComedia" group-title="Entretenimiento",Distrito Comedia
-https://live.televisiongratishd.com/tvplus2021/47_.m3u8?token=A3px1VnhI-StiuFZ0w2ISg&expires=1609797771&ip=181.115.62.48
+https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/3cmcveklru0.m3u8?s=cWMikC-L_LxWL94V2hI-pw&e=1609979933
 
 #EXTINF:-1 tvg-id="Azteca7" group-title="Entretenimiento",Azteca 7
-https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/yv4z9a.m3u8?s=g4Crm3QwdH4_3dQwYsEmfQ&e=1609741057
+https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/yv4z9a.m3u8?s=4brQKLfeJNmNA0EkrjKUOw&e=1609979860
 
 #EXTINF:-1 tvg-id="Canal5" group-title="Entretenimiento",Canal 5
-https://live.televisiongratishd.com/tvplus2021/2_.m3u8?token=Uu4woHx_WvK8E0rz6-56iA&expires=1609799067&ip=181.115.62.48
+https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/da0s08.m3u8?s=HgAS1JVe60zN72EfS5qzNA&e=1609979763
 
 #EXTINF:-1 tvg-id="TeLeFe" group-title="Entretenimiento", TeLeFe
 https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/x8rbhuvs3uyfie.m3u8?s=aKcxd8gJtl1A12rHl6xxaQ&e=1609741173
