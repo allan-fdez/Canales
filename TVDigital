@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="DistritoComedia" group-title="Entretenimiento",Distrito Comedia
-https://live.televisiongratishd.com/tvplus2021/47_.m3u8?token=5YxIeQ97WrCimY5BRNXZhw&expires=1609981138&ip=181.115.62.48
+https://live.televisiongratishd.com/tvplus2021/47_.m3u8?token=uMbJr2p3PLW2kw4BIXrNWQ&expires=1610064896&ip=181.115.62.48
 
 #EXTINF:-1 tvg-id="Azteca7" group-title="Entretenimiento",Azteca 7
-https://live.televisiongratishd.com/tvplus2021/1_.m3u8?token=f7Vybt9r7Hfip3XOOIFG5A&expires=1609980996&ip=181.115.62.48
+https://live.televisiongratishd.com/tvplus2021/1_.m3u8?token=el_exCbfehKgCexRzUQ6cw&expires=1610064652&ip=181.115.62.48
 
 #EXTINF:-1 tvg-id="Canal5" group-title="Entretenimiento",Canal 5
-https://live.televisiongratishd.com/tvplus2021/2_.m3u8?token=8Yj_Ficy6lhg6om1J4ip6w&expires=1609981081&ip=181.115.62.48
+https://live.televisiongratishd.com/tvplus2021/2_.m3u8?token=eku0Knd1QP0PxYYUwRCYNQ&expires=1610064840&ip=181.115.62.48
 
 #EXTINF:-1 tvg-id="TeLeFe" group-title="Entretenimiento", TeLeFe
 https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/x8rbhuvs3uyfie.m3u8?s=aKcxd8gJtl1A12rHl6xxaQ&e=1609741173
@@ -75,13 +75,13 @@ https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/me4gtt8v3fmket.m3u8?s=OMnPmuaumyi
 https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/vwchy5d.m3u8?s=o7o7ryl3FkPyhZgtE1hpvg&e=1609742769
 
 #EXTINF:-1 tvg-id="Nicktoons" group-title="Infantil",Nicktoons
-https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/vgwtkzk.m3u8?s=1ocKqTWKZEAlVprgMT2ByA&e=1609742904
+https://live.televisiongratishd.com/tvplus2021/113_.m3u8?token=7jxOGJ-dlm4SQqhfAqBmpg&expires=1610065114&ip=181.115.62.48
 
 #EXTINF:-1 tvg-id="Tooncast" group-title="Infantil",Tooncast
-https://live.televisiongratishd.com/tvplus2021/116_.m3u8?token=9sG7TY-BgOhqEUxviRqwxw&expires=1609981265&ip=181.115.62.48
+https://live.televisiongratishd.com/tvplus2021/116_.m3u8?token=oTPA6OiFsi8SmuMJOin5BQ&expires=1610065053&ip=181.115.62.48
 
 #EXTINF:-1 tvg-id="Teennick" group-title="Infantil", Teen Nick
-https://live.televisiongratishd.com/tvplus2021/111_.m3u8?token=PRSQ2PEUEt_R8Bj1rX8Clw&expires=1609981199&ip=181.115.62.48
+https://live.televisiongratishd.com/tvplus2021/111_.m3u8?token=vcz4ea4vcK0e7NrQ3PszUA&expires=1610064982&ip=181.115.62.48
 
 #EXTINF:-1 tvg-id="Unicable" group-title="Entretenimiento", Unicable
 https://live.televisiongratishd.com/tvplus2021/63_.m3u8?token=qfH2RwgElviXhPrAdZq7Yw&expires=1609798942&ip=181.115.62.48
