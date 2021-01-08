@@ -1,15 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="DistritoComedia" group-title="Entretenimiento",Distrito Comedia
-https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/3cmcveklru0.m3u8?s=2KtfKnxNpaUnncE0E40Flw&e=1610099989
+https://live.televisiongratishd.com/tvplus2021/47_.m3u8?token=mGdzok0PRGocChW_dPi1Uw&expires=1610151072&ip=181.115.62.48
 
 #EXTINF:-1 tvg-id="Azteca7" group-title="Entretenimiento",Azteca 7
-https://live.latino-web-tv.com/media/45.m3u8?token=U2FsdGVkX18B9aJc0TNheukEA1HWuZrJKzN8e%2Fwj3Mri4RpADfQRh%2By50gB369xdkqx%2FhXecUVXAz0Qf5DHo6TGwwsBQ9NOpSDs%2BwHNyENk%3D&expires=1610097391&expires2=U2FsdGVkX19NAFxiPWGFLlJ9mcjUmvMc%2B42o5NbnlsQ%3D&ip=181.115.62.48
+https://live.televisiongratishd.com/tvplus2021/1_.m3u8?token=nmQ5_BxGrmsF_Wo2ohbnaQ&expires=1610150826&ip=181.115.62.48
 
 #EXTINF:-1 tvg-id="Canal5" group-title="Entretenimiento",Canal 5
-https://live.televisiongratishd.com/tvplus2021/2_.m3u8?token=eku0Knd1QP0PxYYUwRCYNQ&expires=1610064840&ip=181.115.62.48
-
-#EXTINF:-1 tvg-id="TeLeFe" group-title="Entretenimiento", TeLeFe
-https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/x8rbhuvs3uyfie.m3u8?s=aKcxd8gJtl1A12rHl6xxaQ&e=1609741173
+https://live.televisiongratishd.com/tvplus2021/2_.m3u8?token=u4cfdWBQ-GEpRAVKxGml-g&expires=1610150946&ip=181.115.62.48
 
 #EXTINF:-1 tvg-id="tlnovelas" group-title="Entretenimiento",tlnovelas
 https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/lmjmb1tcvkbgm0.m3u8?s=oxQzLI2xfHHW0fuQ6s0MIQ&e=1609741305
@@ -21,13 +18,13 @@ https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/4612rwe.m3u8?s=0zLTriiqH58LWXqrzg
 https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/in515ybo3y.m3u8?s=wK-GHgFCtnGINSeT8NeU_A&e=1609741489
 
 #EXTINF:-1 tvg-id="FoxFamily" group-title="Cine",Fox Family
-https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/goks9npik9.m3u8?s=BQL9XCEHnzaqoIE7ofmfMA&e=1609741552
+https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/goks9npik9.m3u8?s=lbFgaKblI7oB2_GfwM9K5g&e=1610151402
 
 #EXTINF:-1 tvg-id="FoxCinema" group-title="Cine",Fox Cinema
 https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/5s69x53079q85.m3u8?s=xa3nPjes8vC-7maCZQm9aA&e=1609741632
 
 #EXTINF:-1 tvg-id="FoxComedy" group-title="Cine",Fox Comedy
-https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/pnc0det5nknvqo.m3u8?s=x-KbmkCghJ_n0z8eEr6zxA&e=1609741702
+https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/pnc0det5nknvqo.m3u8?s=in0uqGakbl8BImUPd4Fq1w&e=1610151453
 
 #EXTINF:-1 tvg-id="FoxClassics" group-title="Cine",Fox Classics
 https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/nmgmf0p714cb.m3u8?s=93T2p6GNieMm3KqrtSgxLg&e=1609741769
@@ -75,13 +72,13 @@ https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/me4gtt8v3fmket.m3u8?s=OMnPmuaumyi
 https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/vwchy5d.m3u8?s=o7o7ryl3FkPyhZgtE1hpvg&e=1609742769
 
 #EXTINF:-1 tvg-id="Nicktoons" group-title="Infantil",Nicktoons
-https://live.televisiongratishd.com/tvplus2021/113_.m3u8?token=7jxOGJ-dlm4SQqhfAqBmpg&expires=1610065114&ip=181.115.62.48
+https://live.televisiongratishd.com/tvplus2021/113_.m3u8?token=3H-NP0O_ZdHqZ7zBtMiP2w&expires=1610151205&ip=181.115.62.48
 
 #EXTINF:-1 tvg-id="Tooncast" group-title="Infantil",Tooncast
-https://live.televisiongratishd.com/tvplus2021/116_.m3u8?token=oTPA6OiFsi8SmuMJOin5BQ&expires=1610065053&ip=181.115.62.48
+https://live.televisiongratishd.com/tvplus2021/116_.m3u8?token=7Dg2u2_j3RazuYPS_NoCIA&expires=1610151281&ip=181.115.62.48
 
 #EXTINF:-1 tvg-id="Teennick" group-title="Infantil", Teen Nick
-https://live.televisiongratishd.com/tvplus2021/111_.m3u8?token=vcz4ea4vcK0e7NrQ3PszUA&expires=1610064982&ip=181.115.62.48
+https://live.televisiongratishd.com/tvplus2021/111_.m3u8?token=IzuLZrEMq5f8kHIcnxhtdg&expires=1610151141&ip=181.115.62.48
 
 #EXTINF:-1 tvg-id="Unicable" group-title="Entretenimiento", Unicable
 https://live.televisiongratishd.com/tvplus2021/63_.m3u8?token=qfH2RwgElviXhPrAdZq7Yw&expires=1609798942&ip=181.115.62.48
@@ -94,6 +91,8 @@ https://live.televisiongratishd.com/tvplus2021/63_.m3u8?token=qfH2RwgElviXhPrAdZ
 
 #EXTINF:-1 tvg-id="Azteca7" group-title="Entretenimiento", Azteca 7
 
+#EXTINF:-1 tvg-id="TeLeFe" group-title="Entretenimiento", TeLeFe
+https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/x8rbhuvs3uyfie.m3u8?s=aKcxd8gJtl1A12rHl6xxaQ&e=1609741173
 
 
 
