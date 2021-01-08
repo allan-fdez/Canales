@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="DistritoComedia" group-title="Entretenimiento",Distrito Comedia
-https://live.latino-web-tv.com/media/0.m3u8?token=U2FsdGVkX19mgaKMsOFdPiWZNe565NXj3whrar%2Fot0IM4twjjdBblLPCRwq6Z3Jm73kfq21imYJrOWpvevtkPGh%2Fjf1k9e1SpLHexrb7cW4%3D&expires=1610097140&expires2=U2FsdGVkX18c%2BastB%2BUYhAVZletQAr6M3J2XifSybys%3D&ip=181.115.62.48
+https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/3cmcveklru0.m3u8?s=2KtfKnxNpaUnncE0E40Flw&e=1610099989
 
 #EXTINF:-1 tvg-id="Azteca7" group-title="Entretenimiento",Azteca 7
 https://live.latino-web-tv.com/media/45.m3u8?token=U2FsdGVkX18B9aJc0TNheukEA1HWuZrJKzN8e%2Fwj3Mri4RpADfQRh%2By50gB369xdkqx%2FhXecUVXAz0Qf5DHo6TGwwsBQ9NOpSDs%2BwHNyENk%3D&expires=1610097391&expires2=U2FsdGVkX19NAFxiPWGFLlJ9mcjUmvMc%2B42o5NbnlsQ%3D&ip=181.115.62.48
@@ -46,7 +46,7 @@ https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/3dgzjbpy.m3u8?s=OgUW8q6EVuqueK5rb
 
 #EXTINF:-1 tvg-id="HBOFamily" group-title="Cine",HBO Family
 https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/mfobze65eqg.m3u8?s=dw4ykZGDUNT1yTh5u9X39Q&e=1609742206
-
+cu
 #EXTINF:-1 tvg-id="HBOSignature" group-title="Cine",HBO Signature
 https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/g05mnm.m3u8?s=i7EVVqbQpSjJU2dM30Y8Zw&e=1609742268
 
