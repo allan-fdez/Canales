@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="DistritoComedia" group-title="Entretenimiento",Distrito Comedia
-https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/3cmcveklru0.m3u8?s=-NNahCxVk117o4frpFbt9Q&e=1610750606
+https://live.televisiongratishd.com/tvplus2022/47_.m3u8?token=L4GAq83tMcZh0pmRNrl2Dw&expires=1611862984&ip=181.115.62.105
 
 #EXTINF:-1 tvg-id="Azteca7" group-title="Entretenimiento",Azteca 7
-https://live.televisiongratishd.com/tvplus2021/1_.m3u8?token=PeoExB3-PLXldZ9KjJ9IgQ&expires=1610419634&ip=181.115.62.48
+https://live.televisiongratishd.com/tvplus2022/1_.m3u8?token=pwWpOAdtkMnLdzmK4ZumwA&expires=1611863087&ip=181.115.62.105
 
 #EXTINF:-1 tvg-id="Canal5" group-title="Entretenimiento",Canal 5
-https://live.televisiongratishd.com/tvplus2021/2_.m3u8?token=eSEUgdplz8G_0BPBH0YDhQ&expires=1610419825&ip=181.115.62.48
+https://live.televisiongratishd.com/tvplus2022/2_.m3u8?token=4pCaTInqxCdnphIixfflpA&expires=1611863130&ip=181.115.62.105
 
 #EXTINF:-1 tvg-id="tlnovelas" group-title="Entretenimiento",tlnovelas
 https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/lmjmb1tcvkbgm0.m3u8?s=oxQzLI2xfHHW0fuQ6s0MIQ&e=1609741305
@@ -15,7 +15,7 @@ https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/lmjmb1tcvkbgm0.m3u8?s=oxQzLI2xfHH
 https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/4612rwe.m3u8?s=0zLTriiqH58LWXqrzgzlZQ&e=1609741406
 
 #EXTINF:-1 tvg-id="FoxSeries" group-title="Cine",Fox Series
-https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/in515ybo3y.m3u8?s=wK-GHgFCtnGINSeT8NeU_A&e=1609741489
+https://live.televisiongratishd.com/tvplus2022/38_.m3u8?token=E7TEaP97W59lTkK4YBdJ_A&expires=1611863374&ip=181.115.62.105
 
 #EXTINF:-1 tvg-id="FoxFamily" group-title="Cine",Fox Family
 https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/goks9npik9.m3u8?s=lbFgaKblI7oB2_GfwM9K5g&e=1610151402
@@ -39,7 +39,7 @@ https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/lbqtn3.m3u8?s=GWICRopAHE4lkhJNtWe
 https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/x5r58d0omlmqph.m3u8?s=FD0s6IYvVUDKukjSglWHBQ&e=1609741985
 
 #EXTINF:-1 tvg-id="HBOPlus" group-title="Cine",HBO Plus
-https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/3dgzjbpy.m3u8?s=OgUW8q6EVuqueK5rbTi_Yw&e=1609742127
+https://live.televisiongratishd.com/tvplus2022/33_.m3u8?token=h8Vs1ngg2SjM6bzzzC-uBA&expires=1611863448&ip=181.115.62.105
 
 #EXTINF:-1 tvg-id="HBOFamily" group-title="Cine",HBO Family
 https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/mfobze65eqg.m3u8?s=dw4ykZGDUNT1yTh5u9X39Q&e=1609742206
@@ -72,13 +72,13 @@ https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/me4gtt8v3fmket.m3u8?s=OMnPmuaumyi
 https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/vwchy5d.m3u8?s=o7o7ryl3FkPyhZgtE1hpvg&e=1609742769
 
 #EXTINF:-1 tvg-id="Nicktoons" group-title="Infantil",Nicktoons
-https://live.televisiongratishd.com/tvplus2021/113_.m3u8?token=3H-NP0O_ZdHqZ7zBtMiP2w&expires=1610151205&ip=181.115.62.48
+https://live.televisiongratishd.com/tvplus2022/113_.m3u8?token=AHxAKB5gsS2YWbUecYe8dw&expires=1611863315&ip=181.115.62.105
 
 #EXTINF:-1 tvg-id="Tooncast" group-title="Infantil",Tooncast
-https://live.televisiongratishd.com/tvplus2021/116_.m3u8?token=7Dg2u2_j3RazuYPS_NoCIA&expires=1610151281&ip=181.115.62.48
+https://live.televisiongratishd.com/tvplus2022/116_.m3u8?token=7lNVHlqc6gyEq3YIS_CG4Q&expires=1611863275&ip=181.115.62.105
 
 #EXTINF:-1 tvg-id="Teennick" group-title="Infantil", Teen Nick
-https://live.televisiongratishd.com/tvplus2021/111_.m3u8?token=IzuLZrEMq5f8kHIcnxhtdg&expires=1610151141&ip=181.115.62.48
+https://live.televisiongratishd.com/tvplus2022/111_.m3u8?token=Gv6fbXqcMpvIN519vol8gA&expires=1611863220&ip=181.115.62.105
 
 #EXTINF:-1 tvg-id="Unicable" group-title="Entretenimiento", Unicable
 https://live.televisiongratishd.com/tvplus2021/63_.m3u8?token=qfH2RwgElviXhPrAdZq7Yw&expires=1609798942&ip=181.115.62.48
