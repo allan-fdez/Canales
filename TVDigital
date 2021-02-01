@@ -113,5 +113,5 @@ https://trinity-lh.akamaihd.net/i/TelevicentroLive3_d@687450/index_400_av-p.m3u8
 #EXTINF:-1 tvg-id="SiTv" group-title="Honduras", Si TV
 https://5b50404ec5e4c.streamlock.net/8030/8030/chunklist_w735822650.m3u8
 
-#EXTINF:-1 tvg-id=" " group-title=" ", 
-
+#EXTINF:-1 tvg-id="Nickclasico " group-title=" ", Nick
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=6991db99-f046-474a-8425-359fb765c47d&clientModelNumber=na&deviceDNT=false&deviceId=6991db99-f046-474a-8425-359fb765c47d&deviceLat=15.4967&deviceLon=-88.0338&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=75a9519b-64c2-11eb-9e0f-0242ac110002&sid=75a9519b-64c2-11eb-9e0f-0242ac110002&userId=
