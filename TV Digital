@@ -95,7 +95,23 @@ https://live.televisiongratishd.com/tvplus2022/107_.m3u8?token=y5yTsfaWp5Jze-a9C
 #EXTINF:-1 tvg-id="TeLeFe" group-title="Entretenimiento", TeLeFe
 https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/x8rbhuvs3uyfie.m3u8?s=aKcxd8gJtl1A12rHl6xxaQ&e=1609741173
 
-#EXTINF:-1 tvg-id="hch.tv" group-title="Entretenimiento", HCH
+#EXTINF:-1 tvg-id="hch" group-title="Honduras", HCH
 https://5d597bfcee285.streamlock.net/hch/hch/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Telecadena7/4" group-title="Honduras", Telecadena 7/4
+https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/master.m3u8
+
+#EXTINF:-1 tvg-id="Canal5ElLider" group-title="Honduras", Canal 5 El lider
+https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/index_400_av-p.m3u8
+
+#EXTINF:-1 tvg-id="TSi" group-title="Honduras", TSi
+https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/index_400_av-p.m3u8
+
+#EXTINF:-1 tvg-id="MegaClasicos" group-title="Honduras", Mega Clásicos
+https://trinity-lh.akamaihd.net/i/TelevicentroLive3_d@687450/index_400_av-p.m3u8
+
+#EXTINF:-1 tvg-id="SiTv" group-title="Honduras", Si TV
+https://5b50404ec5e4c.streamlock.net/8030/8030/chunklist_w735822650.m3u8
+
+#EXTINF:-1 tvg-id=" " group-title=" ", 
 
