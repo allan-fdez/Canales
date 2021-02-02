@@ -102,10 +102,10 @@ https://5d597bfcee285.streamlock.net/hch/hch/playlist.m3u8
 https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/master.m3u8
 
 #EXTINF:-1 tvg-id="Canal5ElLider" group-title="Honduras", Canal 5 El lider
-https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/index_400_av-p.m3u8
+https://bcovlive-a.akamaihd.net/8520a5c6a0384300b735385e02e2f582/us-west-2/6056665196001/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TSi" group-title="Honduras", TSi
-https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/index_400_av-p.m3u8
+https://www.dailymotion.com/cdn/live/video/x7xs2wx.m3u8?sec=Q1SDWS6gnXr0e4vL1Yp0IBNxAFE4M9sU1x88XVsJ-JL1yalW0t1rqg8TjrsLpSEykQDiD8256pMQbHdI5ABiBg
 
 #EXTINF:-1 tvg-id="MegaClasicos" group-title="Honduras", Mega Clásicos
 https://trinity-lh.akamaihd.net/i/TelevicentroLive3_d@687450/index_400_av-p.m3u8
