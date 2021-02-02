@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="DistritoComedia" group-title="Entretenimiento",Distrito Comedia
-https://live.televisiongratishd.com/tvplus2022/47_.m3u8?token=IdLW_VljnYY7_zp1nWUjVQ&expires=1612203421&ip=181.115.62.105
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/3cmcveklru0.m3u8?s=rOAq3OnvAeccIO8e-EkOCw&e=1612307149
 
 #EXTINF:-1 tvg-id="Azteca7" group-title="Entretenimiento",Azteca 7
-https://live.televisiongratishd.com/tvplus2022/1_.m3u8?token=2Qy5zBNeWvP34HFpYYhmSg&expires=1612203161&ip=181.115.62.105
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/yv4z9a.m3u8?s=wG_6qhhBKBn_r_NkOfJlpA&e=1612307339
 
 #EXTINF:-1 tvg-id="Canal5" group-title="Entretenimiento",Canal 5
-https://live.televisiongratishd.com/tvplus2022/2_.m3u8?token=8_v3F6AqaTHWv_vatdEUdQ&expires=1612203231&ip=181.115.62.105
+http://156.96.44.13:8081/televall2021/79_.m3u8
 
 #EXTINF:-1 tvg-id="tlnovelas" group-title="Entretenimiento",tlnovelas
 https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/lmjmb1tcvkbgm0.m3u8?s=oxQzLI2xfHHW0fuQ6s0MIQ&e=1609741305
