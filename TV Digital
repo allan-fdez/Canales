@@ -1,24 +1,24 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="DistritoComedia" group-title="Entretenimiento",Distrito Comedia
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/3cmcveklru0.m3u8?s=8xcrBVwHp1N3fTN7JEmupw&e=1612413920
+https://live.televisiongratishd.com/tvplus2022/47_.m3u8?token=w5B0vN3vxRvtpi0frbqt_Q&expires=1612487612&ip=181.115.62.105
 
 #EXTINF:-1 tvg-id="Azteca7" group-title="Entretenimiento",Azteca 7
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/yv4z9a.m3u8?s=0K2qgcVuFNn-zlIF2s19-Q&e=1612413375
+https://live.televisiongratishd.com/tvplus2022/1_.m3u8?token=eOH7sXqiJaCj5vaL2Ip-EA&expires=1612487689&ip=181.115.62.105
 
 #EXTINF:-1 tvg-id="Canal5" group-title="Entretenimiento",Canal 5
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/da0s08.m3u8?s=OO_SJOkf6a6wmVVVh6W7Fg&e=1612413336
+https://live.televisiongratishd.com/tvplus2022/2_.m3u8?token=mWCZOfulR58iGdHYw8xv9A&expires=1612487729&ip=181.115.62.105
 
 #EXTINF:-1 tvg-id="tlnovelas" group-title="Entretenimiento",tlnovelas
 https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/lmjmb1tcvkbgm0.m3u8?s=30_OLp1tD2wtzGTs91TjpQ&e=1612413285
 
 #EXTINF:-1 tvg-id="FoxAction" group-title="Cine",Fox Action
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/4612rwe.m3u8?s=mclDOhQFB_0JwJR60pW1JQ&e=1612413237
+https://live.televisiongratishd.com/tvplus2022/138_.m3u8?token=kwciAIb_1HBpJjW1zdqA_A&expires=1612487766&ip=181.115.62.105
 
 #EXTINF:-1 tvg-id="FoxSeries" group-title="Cine",Fox Series
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/in515ybo3y.m3u8?s=0-mHNfkb5UaocJBFCaaewg&e=1612413192
+https://live.televisiongratishd.com/tvplus2022/38_.m3u8?token=1x02whISEVYamU3pEKr_FA&expires=1612487804&ip=181.115.62.105
 
 #EXTINF:-1 tvg-id="FoxFamily" group-title="Cine",Fox Family
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/goks9npik9.m3u8?s=LQnES6PW_tN47FwyxtEzWQ&e=1612413135
+https://live.televisiongratishd.com/tvplus2022/69_.m3u8?token=wUZGaEtUZzCysHpn5apMGg&expires=1612487931&ip=181.115.62.105
 
 #EXTINF:-1 tvg-id="FoxCinema" group-title="Cine",Fox Cinema
 https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/5s69x53079q85.m3u8?s=xa3nPjes8vC-7maCZQm9aA&e=1609741632
@@ -30,7 +30,7 @@ https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/pnc0det5nknvqo.m3u8?s=f751CEMvL62
 https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/nmgmf0p714cb.m3u8?s=93T2p6GNieMm3KqrtSgxLg&e=1609741769
 
 #EXTINF:-1 tvg-id="FoxMovies" group-title="Cine",Fox Movies
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/4dtc368405sw4mo.m3u8?s=7cgWt6xykaLScarDP4bVMA&e=1612413044
+https://live.televisiongratishd.com/tvplus2022/68_.m3u8?token=4XVVe8RtA3cthbZQfME0EA&expires=1612487894&ip=181.115.62.105
 
 #EXTINF:-1 tvg-id="HBOLatino" group-title="Cine",HBO Latino
 https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/lbqtn3.m3u8?s=GWICRopAHE4lkhJNtWechQ&e=1609741926
@@ -42,13 +42,13 @@ https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/x5r58d0omlmqph.m3u8?s=j1tiD9gahL8
 https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/3dgzjbpy.m3u8?s=9IspSPjSdN6QUXCgbKchbw&e=1612412972
 
 #EXTINF:-1 tvg-id="HBOFamily" group-title="Cine",HBO Family
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/mfobze65eqg.m3u8?s=8j91j_IMCvScYKAJToxVrg&e=1612412934
+https://live.televisiongratishd.com/tvplus2022/34_.m3u8?token=iZGh7AAPX1E8R9ZGNiq9ag&expires=1612488196&ip=181.115.62.105
 
 #EXTINF:-1 tvg-id="HBOSignature" group-title="Cine",HBO Signature
 https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/g05mnm.m3u8?s=PF-03IQZ0ngZdi0Y_ONXZw&e=1612412897
 
 #EXTINF:-1 tvg-id="HBOXtreme" group-title="Cine",HBO Xtreme
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/way71f4yp5a3.m3u8?s=DonaxPg3oW6p3rMiRIgGRg&e=1612412857
+https://live.televisiongratishd.com/tvplus2022/35_.m3u8?token=_941QYOGp-zZkJ9j5U8ZMA&expires=1612488281&ip=181.115.62.105
 
 #EXTINF:-1 tvg-id="HBOMundi" group-title="Cine",HBO Mundi
 https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/8nviuzdhm5jnu.m3u8?s=vGSLHCL-l96NdeNalTu1uA&e=1612412763
@@ -63,25 +63,25 @@ https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/aef8t7z.m3u8?s=IstW9119BZH4Lo1y5Z
 https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/uw2t3eem.m3u8?s=AQgZAFsTVBdW1YJ7ut7D5g&e=1612413744
 
 #EXTINF:-1 tvg-id="SyFy" group-title="Cine",SyFy
-https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/u7rbhb.m3u8?s=AXuuRQhAvO-QC4uLf2ljLw&e=1609742655
+https://live.televisiongratishd.com/tvplus2022/58_.m3u8?token=hyZmRJGQPt7NtY-ukG3m-Q&expires=1612488043&ip=181.115.62.105
 
 #EXTINF:-1 tvg-id="Space" group-title="Cine",Space
 https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/me4gtt8v3fmket.m3u8?s=OMnPmuaumyiE0bPWTW-WFg&e=1609742714
 
 #EXTINF:-1 tvg-id="ParamountChannel" group-title="Cine",Paramount Channel
-https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/vwchy5d.m3u8?s=o7o7ryl3FkPyhZgtE1hpvg&e=1609742769
+https://live.televisiongratishd.com/tvplus2022/83_.m3u8?token=UUCfIpDVWsYAmqZlhEKegA&expires=1612488245&ip=181.115.62.105
 
 #EXTINF:-1 tvg-id="Nicktoons" group-title="Infantil",Nicktoons
 https://live.televisiongratishd.com/tvplus2022/113_.m3u8?token=-xrwLZW4TvO-u-dU3rEcIg&expires=1612396295&ip=181.115.62.105
 
 #EXTINF:-1 tvg-id="Tooncast" group-title="Infantil",Tooncast
-https://live.televisiongratishd.com/tvplus2022/116_.m3u8?token=vN4xb0hbODiMvRj0fIP62w&expires=1612396152&ip=181.115.62.105
+https://live.televisiongratishd.com/tvplus2022/116_.m3u8?token=VKhMWZ2mQVNv8rDXEHTq-A&expires=1612488109&ip=181.115.62.105
 
-#EXTINF:-1 tvg-id="Teennick" group-title="Infantil", Teen Nick
-https://live.televisiongratishd.com/tvplus2022/111_.m3u8?token=NBQqWWjnv1oEuPl_V5MxwQ&expires=1612396206&ip=181.115.62.105
+#EXTINF:-1 tvg-id="Nick 2" group-title="Infantil", Teen Nick
+https://live.televisiongratishd.com/tvplus2022/111_.m3u8?token=GZlmgMDBptEaob-zPaVXJA&expires=1612488144&ip=181.115.62.105
 
 #EXTINF:-1 tvg-id="Unicable" group-title="Entretenimiento", Unicable
-https://live.televisiongratishd.com/tvplus2022/63_.m3u8?token=lIoBU2vFFxCWjDObZflf3Q&expires=1612396358&ip=181.115.62.105
+https://live.televisiongratishd.com/tvplus2022/63_.m3u8?token=nGXohM5b6QE7eo-f2oaiUg&expires=1612487844&ip=181.115.62.105
 
 #EXTINF:-1 tvg-id="UniversalChannel" group-title="Entretenimiento", Universal Channel
 https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/d77wqro8917ua5z.m3u8?s=gcFxcTdhqi-GJI2hY6i78Q&e=1612413646
