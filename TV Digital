@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="DistritoComedia" group-title="Entretenimiento",Distrito Comedia
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Distrito_Comedia_logo.svg/revision/latest?cb=20200820162642" tvg-id="DistritoComedia" group-title="Entretenimiento",Distrito Comedia
 https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/3cmcveklru0.m3u8?s=aHsJYY2VOrnz6G5KnD_JwQ&e=1612639813
 //live.televisiongratishd.com/tvplus2022/47_.m3u8?token=bF5nE1rX3udja6kVyzWnVw&expires=1612578122&ip=181.115.62.105
 
