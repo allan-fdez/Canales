@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="DistritoComedia" group-title="Entretenimiento",Distrito Comedia
-https://live.televisiongratishd.com/tvplus2022/47_.m3u8?token=w5B0vN3vxRvtpi0frbqt_Q&expires=1612487612&ip=181.115.62.105
+https://live.televisiongratishd.com/tvplus2022/47_.m3u8?token=bF5nE1rX3udja6kVyzWnVw&expires=1612578122&ip=181.115.62.105
 
 #EXTINF:-1 tvg-id="Azteca7" group-title="Entretenimiento",Azteca 7
-https://live.televisiongratishd.com/tvplus2022/1_.m3u8?token=eOH7sXqiJaCj5vaL2Ip-EA&expires=1612487689&ip=181.115.62.105
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/yv4z9a.m3u8?s=HXXNEhNgmgqpx9ztZXtj2Q&e=1612596239
 
 #EXTINF:-1 tvg-id="Canal5" group-title="Entretenimiento",Canal 5
-https://live.televisiongratishd.com/tvplus2022/2_.m3u8?token=mWCZOfulR58iGdHYw8xv9A&expires=1612487729&ip=181.115.62.105
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/da0s08.m3u8?s=jHPLUr0Sg6f_DVka33XeXA&e=1612596298
 
 #EXTINF:-1 tvg-id="tlnovelas" group-title="Entretenimiento",tlnovelas
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/lmjmb1tcvkbgm0.m3u8?s=30_OLp1tD2wtzGTs91TjpQ&e=1612413285
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/lmjmb1tcvkbgm0.m3u8?s=jp5gyqBQHy7P3DBtshYjOw&e=1612596377
 
 #EXTINF:-1 tvg-id="FoxAction" group-title="Cine",Fox Action
 https://live.televisiongratishd.com/tvplus2022/138_.m3u8?token=kwciAIb_1HBpJjW1zdqA_A&expires=1612487766&ip=181.115.62.105
@@ -45,13 +45,13 @@ https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/3dgzjbpy.m3u8?s=9IspSPjSdN6QUXCgb
 https://live.televisiongratishd.com/tvplus2022/34_.m3u8?token=iZGh7AAPX1E8R9ZGNiq9ag&expires=1612488196&ip=181.115.62.105
 
 #EXTINF:-1 tvg-id="HBOSignature" group-title="Cine",HBO Signature
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/g05mnm.m3u8?s=PF-03IQZ0ngZdi0Y_ONXZw&e=1612412897
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/g05mnm.m3u8?s=E5ey_-zWusC-E0HH3UsWsw&e=1612596460
 
 #EXTINF:-1 tvg-id="HBOXtreme" group-title="Cine",HBO Xtreme
-https://live.televisiongratishd.com/tvplus2022/35_.m3u8?token=_941QYOGp-zZkJ9j5U8ZMA&expires=1612488281&ip=181.115.62.105
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/way71f4yp5a3.m3u8?s=RQ5ozbRQEVouw2IMo7AdaQ&e=1612596459
 
 #EXTINF:-1 tvg-id="HBOMundi" group-title="Cine",HBO Mundi
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/8nviuzdhm5jnu.m3u8?s=vGSLHCL-l96NdeNalTu1uA&e=1612412763
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/8nviuzdhm5jnu.m3u8?s=fflzyCCNJ-rHeRGsLXc3rw&e=1612596458
 
 #EXTINF:-1 tvg-id="GoldenPlus" group-title="Cine",Golden Plus
 https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/daw8b.m3u8?s=e1QNdfgwiDL-S1a_cSQWmQ&e=1609742467
