@@ -1,12 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="DistritoComedia" group-title="Entretenimiento",Distrito Comedia
-https://live.televisiongratishd.com/tvplus2022/47_.m3u8?token=bF5nE1rX3udja6kVyzWnVw&expires=1612578122&ip=181.115.62.105
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/3cmcveklru0.m3u8?s=aHsJYY2VOrnz6G5KnD_JwQ&e=1612639813
+//live.televisiongratishd.com/tvplus2022/47_.m3u8?token=bF5nE1rX3udja6kVyzWnVw&expires=1612578122&ip=181.115.62.105
 
 #EXTINF:-1 tvg-id="Azteca7" group-title="Entretenimiento",Azteca 7
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/yv4z9a.m3u8?s=HXXNEhNgmgqpx9ztZXtj2Q&e=1612596239
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/yv4z9a.m3u8?s=G9jCjf9y9Viqldgv3yX1fw&e=1612639915
 
 #EXTINF:-1 tvg-id="Canal5" group-title="Entretenimiento",Canal 5
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/da0s08.m3u8?s=jHPLUr0Sg6f_DVka33XeXA&e=1612596298
+https://latinoserver.xyz/play/3893_20.m3u8
 
 #EXTINF:-1 tvg-id="tlnovelas" group-title="Entretenimiento",tlnovelas
 https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/lmjmb1tcvkbgm0.m3u8?s=jp5gyqBQHy7P3DBtshYjOw&e=1612596377
@@ -15,7 +16,7 @@ https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/lmjmb1tcvkbgm0.m3u8?s=jp5gyqBQHy7
 https://live.televisiongratishd.com/tvplus2022/138_.m3u8?token=GzrEH5Suf2YXDsb3GaZnWg&expires=1612578893&ip=181.115.62.105
 
 #EXTINF:-1 tvg-id="FoxSeries" group-title="Cine",Fox Series
-https://live.televisiongratishd.com/tvplus2022/38_.m3u8?token=tZMf8rDrEyJ0XANFnYUtYQ&expires=1612579137&ip=181.115.62.105
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/in515ybo3y.m3u8?s=XbheV1dRNHMwWgpT4Jnz-g&e=1612640308
 
 #EXTINF:-1 tvg-id="FoxFamily" group-title="Cine",Fox Family
 https://live.televisiongratishd.com/tvplus2022/69_.m3u8?token=wUZGaEtUZzCysHpn5apMGg&expires=1612487931&ip=181.115.62.105
