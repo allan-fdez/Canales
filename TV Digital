@@ -6,10 +6,10 @@ https://5d597bfcee285.streamlock.net/hch/hch/playlist.m3u8
 https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/3cmcveklru0.m3u8?s=B2K1Y66Ii1GDI31S38FjXQ&e=1612840804
 
 #EXTINF:-1 tvg-id="Azteca7" group-title="Entretenimiento", Azteca 7
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/yv4z9a.m3u8?s=G9jCjf9y9Viqldgv3yX1fw&e=1612639915
+http://156.96.44.13:8081/televall2021/2_.m3u8
 
 #EXTINF:-1 tvg-id="Canal5" group-title="Entretenimiento", Canal 5
-https://live.televisiongratishd.com/tvplus2022/2_.m3u8?token=yBzGF0tgE1rTAofNHGObNA&expires=1612639702&ip=181.115.62.105
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/da0s08.m3u8?s=qSpARiw35RN85utjavwziA&e=1612842654
 
 #EXTINF:-1 tvg-id="Depelicula" group-title="Entretenimiento", De Pelicula
 https://live.televisiongratishd.com/tvplus2022/85_.m3u8?token=U-QtGaInpuh_mM-1v0LmQw&expires=1612641139&ip=181.115.62.105
