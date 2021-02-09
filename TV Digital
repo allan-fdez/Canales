@@ -3,16 +3,13 @@
 https://5d597bfcee285.streamlock.net/hch/hch/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DistritoComedia" group-title="Entretenimiento", Distrito Comedia
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/3cmcveklru0.m3u8?s=B2K1Y66Ii1GDI31S38FjXQ&e=1612840804
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/3cmcveklru0.m3u8?s=6UZFowSakZmmk77Bt4kF5Q&e=1612902214
 
 #EXTINF:-1 tvg-id="Azteca7" group-title="Entretenimiento", Azteca 7
-http://156.96.44.13:8081/televall2021/2_.m3u8
+https://live.televisiongratishd.com/tvplus2022/1_.m3u8?token=c3bdK3YVfQ8TKkQ_ulfDXw&expires=1612884466&ip=181.115.62.105
 
 #EXTINF:-1 tvg-id="Canal5" group-title="Entretenimiento", Canal 5
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/da0s08.m3u8?s=qSpARiw35RN85utjavwziA&e=1612842654
-
-#EXTINF:-1 tvg-id="Depelicula" group-title="Entretenimiento", De Pelicula
-https://live.televisiongratishd.com/tvplus2022/85_.m3u8?token=U-QtGaInpuh_mM-1v0LmQw&expires=1612641139&ip=181.115.62.105
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/da0s08.m3u8?s=el4Ji24C0Hh7Ys1RtNTdDA&e=1612902559
 
 #EXTINF:-1 tvg-id="Fox" group-title="Cine", Fox
 https://live.televisiongratishd.com/tvplus2022/42_.m3u8?token=0tEC3tCJO7nvX83VrPnNew&expires=1612640446&ip=181.115.62.105
@@ -63,7 +60,7 @@ https://live.televisiongratishd.com/tvplus2022/35_.m3u8?token=y275Dw3nFa0uGBzw1D
 https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/8nviuzdhm5jnu.m3u8?s=fflzyCCNJ-rHeRGsLXc3rw&e=1612596458
 
 #EXTINF:-1 tvg-id="Cinemax" group-title="Cine", Cinemax
-https://live.televisiongratishd.com/tvplus2022/43_.m3u8?token=cSDSP0qr5TkacJ7APeTpbQ&expires=1612640566&ip=181.115.62.105
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/ztv7sh.m3u8?s=m0J_5f5H2S1jOlGEZfyjuA&e=1612903283
 
 #EXTINF:-1 tvg-id="Cinecanal" group-title="Cine", Cinecanal
 https://live.televisiongratishd.com/tvplus2022/44_.m3u8?token=3-EeCWR8ewUqjcpDu9Jk3w&expires=1612640690&ip=181.115.62.105
@@ -113,26 +110,29 @@ https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/d77wqro8917ua5z.m3u8?s=gcFxcTdhqi
 #EXTINF:-1 tvg-id="StudioUniversal" group-title="Entretenimiento", Studio Universal
 https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/rdz85fjy0wuhhv.m3u8?s=Shd25abMrc-shHc7uw0sHA&e=1612413693
 
-#EXTINF:-1 tvg-id="DisneyChannel" group-title="Entretenimiento", Disney Channel
-https://live.televisiongratishd.com/tvplus2022/107_.m3u8?token=lY7koqapGkgDUtd9sMn_7A&expires=1612366892&ip=181.115.62.105
+#EXTINF:-1 tvg-id="DisneyChannel" group-title="Infantiles", Disney Channel
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/96859.m3u8?s=otn1U1j1pMAKKfmL55_qSA&e=1612902714
+
+#EXTINF:-1 tvg-id="Depelicula" group-title="Entretenimiento", De Pelicula
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/1zrltg3e.m3u8?s=QMIv7xZJi7bWQ8Rt9fXz3Q&e=1612903085
+
+#EXTINF:-1 tvg-id="" group-title="",
+
 
 #EXTINF:-1 tvg-id="TeLeFe" group-title="Entretenimiento", TeLeFe
 https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/x8rbhuvs3uyfie.m3u8?s=aKcxd8gJtl1A12rHl6xxaQ&e=1609741173
 
-#EXTINF:-1 tvg-id="Telecadena7/4" group-title="Honduras", Telecadena 7/4
-https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/master.m3u8
-
 #EXTINF:-1 tvg-id="Canal5ElLider" group-title="Honduras", Canal 5 El lider
 https://bcovlive-a.akamaihd.net/8520a5c6a0384300b735385e02e2f582/us-west-2/6056665196001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TSi" group-title="Honduras", TSi
-https://www.dailymotion.com/cdn/live/video/x7xs2wx.m3u8?sec=Q1SDWS6gnXr0e4vL1Yp0IJ5xAb10GGvC4C1XlJxW_unMLJtGykLZhbwUXfPNg_6H2tJSvGFl7nmdzwFoXsoXqQ
+#EXTINF:-1 tvg-id="" group-title="",
 
-#EXTINF:-1 tvg-id="MegaClasicos" group-title="Honduras", Mega Clásicos
-https://trinity-lh.akamaihd.net/i/TelevicentroLive3_d@687450/index_400_av-p.m3u8
 
-#EXTINF:-1 tvg-id="vtv.com.hn" group-title="Honduras", Vica TV
-https://hn-vtv-vtv-live.ned.media/vtv/smil:vtv.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjEyMzY5NDU2LCJzZXNzaW9uIjoiMTgxLjExNS42Mi4xMDUiLCJ3aGl0ZWxpc3QiOlsiMTgxLjExNS42Mi4xMDUiXX0sInNpZ25hdHVyZSI6IjE1Y2ZiNTc2MmRmZWM5MGZmY2E1MGM4NDc1ZGU2NzRkYzY0MTI3ZTcifQ==
+#EXTINF:-1 tvg-id="" group-title="", 
+
+
+#EXTINF:-1 tvg-id="" group-title="", 
+
 
 #EXTINF:-1 tvg-id="Nickclasico " group-title=" ", Nick
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=6991db99-f046-474a-8425-359fb765c47d&clientModelNumber=na&deviceDNT=false&deviceId=6991db99-f046-474a-8425-359fb765c47d&deviceLat=15.4967&deviceLon=-88.0338&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=75a9519b-64c2-11eb-9e0f-0242ac110002&sid=75a9519b-64c2-11eb-9e0f-0242ac110002&userId=
