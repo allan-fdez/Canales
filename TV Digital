@@ -3,13 +3,13 @@
 https://5d597bfcee285.streamlock.net/hch/hch/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DistritoComedia" group-title="Entretenimiento", Distrito Comedia
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/3cmcveklru0.m3u8?s=6UZFowSakZmmk77Bt4kF5Q&e=1612902214
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/3cmcveklru0.m3u8?s=9F51tiv8TroXeaT0fANsSQ&e=1612927894
 
 #EXTINF:-1 tvg-id="Azteca7" group-title="Entretenimiento", Azteca 7
-https://live.televisiongratishd.com/tvplus2022/1_.m3u8?token=c3bdK3YVfQ8TKkQ_ulfDXw&expires=1612884466&ip=181.115.62.105
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/yv4z9a.m3u8?s=PylUl_L8gRjMjthaDnzZCQ&e=1612928330
 
 #EXTINF:-1 tvg-id="Canal5" group-title="Entretenimiento", Canal 5
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/da0s08.m3u8?s=el4Ji24C0Hh7Ys1RtNTdDA&e=1612902559
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/da0s08.m3u8?s=E2MoQrH7j89KCboGqW1_VA&e=1612927756
 
 #EXTINF:-1 tvg-id="Fox" group-title="Cine", Fox
 https://live.televisiongratishd.com/tvplus2022/42_.m3u8?token=0tEC3tCJO7nvX83VrPnNew&expires=1612640446&ip=181.115.62.105
@@ -111,13 +111,13 @@ https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/d77wqro8917ua5z.m3u8?s=gcFxcTdhqi
 https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/rdz85fjy0wuhhv.m3u8?s=Shd25abMrc-shHc7uw0sHA&e=1612413693
 
 #EXTINF:-1 tvg-id="DisneyChannel" group-title="Infantiles", Disney Channel
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/96859.m3u8?s=otn1U1j1pMAKKfmL55_qSA&e=1612902714
+https://live.televisiongratishd.com/tvplus2022/107_.m3u8?token=y-3VsY0Vy2JOnLKM1jsNNQ&expires=1612910492&ip=181.115.62.105
 
 #EXTINF:-1 tvg-id="Depelicula" group-title="Entretenimiento", De Pelicula
 https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/1zrltg3e.m3u8?s=QMIv7xZJi7bWQ8Rt9fXz3Q&e=1612903085
 
-#EXTINF:-1 tvg-id="" group-title="",
-
+#EXTINF:-1 tvg-id="Disneyjunior" group-title="Infantiles", Disney Junior
+https://live.televisiongratishd.com/tvplus2022/109_.m3u8?token=xd9uxrbvFlpoPjQio-zjjg&expires=1612910557&ip=181.115.62.105
 
 #EXTINF:-1 tvg-id="TeLeFe" group-title="Entretenimiento", TeLeFe
 https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/x8rbhuvs3uyfie.m3u8?s=aKcxd8gJtl1A12rHl6xxaQ&e=1609741173
