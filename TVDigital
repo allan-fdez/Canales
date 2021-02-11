@@ -3,13 +3,13 @@
 https://5d597bfcee285.streamlock.net/hch/hch/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DistritoComedia" group-title="Entretenimiento", Distrito Comedia
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/3cmcveklru0.m3u8?s=HcClMWgnNMfusU3bC-7YTw&e=1613002664
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/3cmcveklru0.m3u8?s=q2RLVOkk_GBbvcQtYQ84lQ&e=1613086279
 
 #EXTINF:-1 tvg-id="Azteca7" group-title="Entretenimiento", Azteca 7
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/yv4z9a.m3u8?s=ebQNdVREJsL2QmcNoWojFQ&e=1613002779
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/yv4z9a.m3u8?s=Yor6hBZ2EVq6BOnMI8HI4A&e=1613086377
 
 #EXTINF:-1 tvg-id="Canal5" group-title="Entretenimiento", Canal 5
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/da0s08.m3u8?s=AO_mH6DWWlM_JnI7_GGkVQ&e=1613027830
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/da0s08.m3u8?s=3FJlkAqciSnVH3wv6JFYCA&e=1613086430
 
 #EXTINF:-1 tvg-id="Fox" group-title="Cine", Fox
 https://live.televisiongratishd.com/tvplus2022/42_.m3u8?token=0tEC3tCJO7nvX83VrPnNew&expires=1612640446&ip=181.115.62.105
@@ -111,7 +111,7 @@ https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/d77wqro8917ua5z.m3u8?s=gcFxcTdhqi
 https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/rdz85fjy0wuhhv.m3u8?s=Shd25abMrc-shHc7uw0sHA&e=1612413693
 
 #EXTINF:-1 tvg-id="DisneyChannel" group-title="Infantiles", Disney Channel
-https://live.televisiongratishd.com/tvplus2022/107_.m3u8?token=ffyzqAf77zRO90ptfQttYQ&expires=1612985139&ip=181.115.62.105
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/96859.m3u8?s=Jw5phvqhEZxtL8yER0jw6Q&e=1613086574
 
 #EXTINF:-1 tvg-id="Depelicula" group-title="Entretenimiento", De Pelicula
 https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/1zrltg3e.m3u8?s=QMIv7xZJi7bWQ8Rt9fXz3Q&e=1612903085
@@ -125,8 +125,8 @@ https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/x8rbhuvs3uyfie.m3u8?s=aKcxd8gJtl1
 #EXTINF:-1 tvg-id="Canal5ElLider" group-title="Honduras", Canal 5 El lider
 https://bcovlive-a.akamaihd.net/8520a5c6a0384300b735385e02e2f582/us-west-2/6056665196001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="",
-
+#EXTINF:-1 tvg-id="CartoonNetwork" group-title="Infantiles", Cartoon Network
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/1feji.m3u8?s=SXlCjtorhoQ9VLfdN6FJIg&e=1613086675
 
 #EXTINF:-1 tvg-id="" group-title="", 
 
