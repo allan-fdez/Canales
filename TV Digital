@@ -3,37 +3,40 @@
 https://5d597bfcee285.streamlock.net/hch/hch/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DistritoComedia" group-title="Kids", Distrito Comedia
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/3cmcveklru0.m3u8?s=0gtM7RWO9hLTf_L8E1Eurg&e=1613271292
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/3cmcveklru0.m3u8?s=mGQj82qjg3YDbpf6YY4C6w&e=1613330489
 
 #EXTINF:-1 tvg-id="Azteca7" group-title="Kids", Azteca 7
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/yv4z9a.m3u8?s=IwjetdScP9LWz8Jr92DVoA&e=1613271257
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/yv4z9a.m3u8?s=V05neArXgluy-IuDTboMhA&e=1613330735
 
 #EXTINF:-1 tvg-id="Canal5" group-title="Kids", Canal 5
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/da0s08.m3u8?s=uzXzvQhjGTGqvk8i8TJOPw&e=1613271220
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/da0s08.m3u8?s=QAXuw8Dd5l-XZKKQMSLuOw&e=1613330745
 
 #EXTINF:-1 tvg-id="Fox" group-title="Cine", Fox
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/v0u19cwy59.m3u8?s=OFWNuLnqy8InzTRYXKp7Rw&e=1613205618
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/v0u19cwy59.m3u8?s=mpYZDaXffZSutZTFh53WhA&e=1613330813
 
-#EXTINF:-1 tvg-id="FoxAction" group-title="Cine", Fox Action
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/4612rwe.m3u8?s=w8GV-dXm8se1qI0vL8zHhQ&e=1613205668
+#EXTINF:-1 tvg-id="Fox" group-title="Cine", Fox2
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/0e733j.m3u8?s=Tjb0TL4u-tuMv6uGiSeYPQ&e=1613330857
 
-#EXTINF:-1 tvg-id="FoxSeries" group-title="Cine", Fox Series
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/in515ybo3y.m3u8?s=xMBmHw4Y2GWmv-PotDBDbw&e=1613205700
+#EXTINF:-1 tvg-id="FoxAction" group-title="FOX Premium", Fox Action
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/4612rwe.m3u8?s=67r_qZ-NrlMSDHlsx2jW5w&e=1613330860
 
-#EXTINF:-1 tvg-id="FoxFamily" group-title="Cine", Fox Family
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/goks9npik9.m3u8?s=wlQ4rR7mtxzZ_684-xsx-Q&e=1613205731
+#EXTINF:-1 tvg-id="FoxSeries" group-title="FOX Premium", Fox Series
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/in515ybo3y.m3u8?s=xvr5U65ZWr3gan8ZedFlQA&e=1613331073
 
-#EXTINF:-1 tvg-id="FoxCinema" group-title="Cine", Fox Cinema
-https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/5s69x53079q85.m3u8?s=xa3nPjes8vC-7maCZQm9aA&e=1609741632
+#EXTINF:-1 tvg-id="FoxFamily" group-title="FOX Premium", Fox Family
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/goks9npik9.m3u8?s=Ymgjvr1xtbTHxluI4UKFuQ&e=1613331085
 
-#EXTINF:-1 tvg-id="FoxComedy" group-title="Cine", Fox Comedy
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/pnc0det5nknvqo.m3u8?s=f751CEMvL62qnvumKGgDxQ&e=1612413093
+#EXTINF:-1 tvg-id="FoxCinema" group-title="FOX Premium", Fox Cinema
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/5s69x53079q85.m3u8?s=1Y4lmZBWyujPHfR3Iq4TBg&e=1613331097
 
-#EXTINF:-1 tvg-id="FoxClassics" group-title="Cine", Fox Classics
-https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/nmgmf0p714cb.m3u8?s=93T2p6GNieMm3KqrtSgxLg&e=1609741769
+#EXTINF:-1 tvg-id="FoxComedy" group-title="FOX Premium", Fox Comedy
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/pnc0det5nknvqo.m3u8?s=iR_-7eU1wmcGFGwEspM6eQ&e=1613331233
 
-#EXTINF:-1 tvg-id="FoxMovies" group-title="Cine", Fox Movies
-https://live.televisiongratishd.com/tvplus2022/68_.m3u8?token=zI8_v039VvwpwfTHVW0IYg&expires=1612579194&ip=181.115.62.105
+#EXTINF:-1 tvg-id="FoxClassics" group-title="FOX Premium", Fox Classics
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/nmgmf0p714cb.m3u8?s=6j655EqqYXUUE6XgQyC8bA&e=1613331111
+
+#EXTINF:-1 tvg-id="FoxMovies" group-title="FOX Premium", Fox Movies
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/4dtc368405sw4mo.m3u8?s=2u9G4OW7d3B_LpmmxQuaKQ&e=1613331088
 
 #EXTINF:-1 tvg-id="HBO" group-title="Cine", HBO
 https://live.televisiongratishd.com/tvplus2022/31_.m3u8?token=7YoRsE6rDw2gZByllWxTVA&expires=1612639834&ip=181.115.62.105
@@ -75,7 +78,7 @@ https://live.televisiongratishd.com/tvplus2022/75_.m3u8?token=NwEp-GajUgp-ABn_n9
 https://live.televisiongratishd.com/tvplus2022/74_.m3u8?token=PXBQv4iHaLfO26QlbBO6BQ&expires=1612641470&ip=181.115.62.105
 
 #EXTINF:-1 tvg-id="TNT" group-title="Cine", TNT
-https://live.televisiongratishd.com/tvplus2022/41_.m3u8?token=jlsNIpaEESFQn5BVfuknVw&expires=1612640246&ip=181.115.62.105
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/ty5e9aqf3.m3u8?s=k8Qt80UCNxY28ORmvtFjIA&e=1613330834
 
 #EXTINF:-1 tvg-id="TNTSeries" group-title="Cine", TNT Series
 https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/uw2t3eem.m3u8?s=AQgZAFsTVBdW1YJ7ut7D5g&e=1612413744
@@ -96,7 +99,7 @@ https://live.televisiongratishd.com/tvplus2022/83_.m3u8?token=UUCfIpDVWsYAmqZlhE
 
 
 #EXTINF:-1 tvg-id="Tooncast" group-title="Kids", Tooncast
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/9efxxdu.m3u8?s=Du-mVTlHaKSqB8HOx7pBJA&e=1613271363
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/9efxxdu.m3u8?s=RLHMdjjiQOQ2LeSyaX-Dcg&e=1613331438
 
 #EXTINF:-1 tvg-id="Nick 2" group-title="Kids", Teen Nick
 
@@ -111,13 +114,13 @@ https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/d77wqro8917ua5z.m3u8?s=gcFxcTdhqi
 https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/rdz85fjy0wuhhv.m3u8?s=Shd25abMrc-shHc7uw0sHA&e=1612413693
 
 #EXTINF:-1 tvg-id="DisneyChannel" group-title="Kids", Disney Channel
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/96859.m3u8?s=1a2M14n8iMPBme-2qbaUnQ&e=1613271177
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/96859.m3u8?s=45CgO3EKxaG8FnMU-FDrug&e=1613331425
 
 #EXTINF:-1 tvg-id="Depelicula" group-title="Entretenimiento", De Pelicula
 https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/1zrltg3e.m3u8?s=QMIv7xZJi7bWQ8Rt9fXz3Q&e=1612903085
 
 #EXTINF:-1 tvg-id="Disneyjunior" group-title="Kids", Disney Junior
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/inkizfn6wve8oc.m3u8?s=4R35_J_ZxrE20NDEYK8Mug&e=1613271072
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/inkizfn6wve8oc.m3u8?s=l_WoMI_fWcGwGmaBViM2ag&e=1613331413
 
 #EXTINF:-1 tvg-id="TeLeFe" group-title="Entretenimiento", TeLeFe
 https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/x8rbhuvs3uyfie.m3u8?s=aKcxd8gJtl1A12rHl6xxaQ&e=1609741173
@@ -126,13 +129,13 @@ https://y3xv2z7bt9vmvvht.ezcdn462.net:8443/hls/x8rbhuvs3uyfie.m3u8?s=aKcxd8gJtl1
 https://bcovlive-a.akamaihd.net/8520a5c6a0384300b735385e02e2f582/us-west-2/6056665196001/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetwork" group-title="Kids", Cartoon Network
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/1feji.m3u8?s=WQLr-X-CgJNZxKBHiDBnAA&e=1613271009
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/1feji.m3u8?s=oGGfv6b_cr3EF-_NxOCiTQ&e=1613331404
 
 #EXTINF:-1 tvg-id="DisneyXD" group-title="Kids", Disney XD
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/12dyavowb6wnxh3.m3u8?s=4ouH6tAbuOWYgdyZri0RKg&e=1613271113
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/12dyavowb6wnxh3.m3u8?s=YF0N14GNZZodsKKkbt9Nsw&e=1613331592
 
 #EXTINF:-1 tvg-id="Nickelodeon" group-title="Kids", Nickelodeon
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/ff7ngwuhc7viegt.m3u8?s=-EENFCMNjTGFsgY6WQ6d1A&e=1613271145
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/ff7ngwuhc7viegt.m3u8?s=9Htd-7r5r2rHs1SwyPnxtQ&e=1613331437
 
 #EXTINF:-1 tvg-id="Nickclasico" group-title="Kids ", Nick clásico 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=6991db99-f046-474a-8425-359fb765c47d&clientModelNumber=na&deviceDNT=false&deviceId=6991db99-f046-474a-8425-359fb765c47d&deviceLat=15.4967&deviceLon=-88.0338&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=75a9519b-64c2-11eb-9e0f-0242ac110002&sid=75a9519b-64c2-11eb-9e0f-0242ac110002&userId=
@@ -141,8 +144,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009
 https://live.televisiongratishd.com/tvplus2022/51_.m3u8?token=xA0HGZ2tDGqXTliSb0XBEw&expires=1612640747&ip=181.115.62.105
 
 #EXTINF:-1 tvg-id="tlnovelas" group-title="Telenovelas", tlnovelas
-https://live.televisiongratishd.com/tvplus2022/56_.m3u8?token=M3ozpaJiUjZ0M5lNf7ouOA&expires=1612640871&ip=181.115.62.105
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/lmjmb1tcvkbgm0.m3u8?s=Zd_z7Pu4SQ43NPXlqhR9SQ&e=1613330838
 
 #EXTINF:-1 tvg-id="Boomerang" group-title="Kids", Boomerang
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/hmnf8ejk.m3u8?s=-UYfc1vtWAKOgPsYhygLlA&e=1613271325
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/hmnf8ejk.m3u8?s=0kBH5I1cmS3ka6vNpHR6_w&e=1613331441
 
