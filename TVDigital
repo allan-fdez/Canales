@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="HCH" group-title="Honduras", HCH
 https://5d597bfcee285.streamlock.net/hch/hch/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DistritoComedia.mx" group-title="Kids", Distrito Comedia
+#EXTINF:-1 tvg-logo="https://dubox.com/s/1EfBZVI43u-hxfi3-NaCAeA" group-title="Kids", Distrito Comedia
 https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/3cmcveklru0.m3u8?s=zPqOWv6vTgOVa9vIRiQgdw&e=1613427466
 
 #EXTINF:-1 tvg-id="Azteca7.mx" group-title="Kids", Azteca 7
