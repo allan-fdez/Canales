@@ -3,40 +3,43 @@
 https://5d597bfcee285.streamlock.net/hch/hch/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dubox.com/s/1EfBZVI43u-hxfi3-NaCAeA" group-title="Kids", Distrito Comedia
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/3cmcveklru0.m3u8?s=zPqOWv6vTgOVa9vIRiQgdw&e=1613427466
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/3cmcveklru0.m3u8?s=cudWaw-JanLWXIJc1lo6uQ&e=1613520762
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Distrito_Comedia_%282018%29_%281%29.png" group-title="Kids", Distrito Comedia
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/3cmcveklru0.m3u8?s=cudWaw-JanLWXIJc1lo6uQ&e=1613520762
 
+#EXTINF:-1 tvg-id="DistritoComedia.mx" group-title="Kids", Distrito Comedia
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/3cmcveklru0.m3u8?s=cudWaw-JanLWXIJc1lo6uQ&e=1613520762
 
 #EXTINF:-1 tvg-id="Azteca7.mx" group-title="Kids", Azteca 7
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/yv4z9a.m3u8?s=ucnHVkubWbSe6bLh-EUpdw&e=1613427493
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/yv4z9a.m3u8?s=uwonFjgZhn7rNvsJ-HPf1w&e=1613521021
 
 #EXTINF:-1 tvg-id="Canal5.mx" group-title="Kids", Canal 5
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/da0s08.m3u8?s=bffoXQhlTJaY03-BUpTsmA&e=1613427495
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/da0s08.m3u8?s=nkFtWoimlb_RDCZqUVp-_A&e=1613521020
 
 #EXTINF:-1 tvg-id="Nickelodeon" group-title="Kids", Nickelodeon
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/ff7ngwuhc7viegt.m3u8?s=VVvJFlwJx_fZGLdrurnLYA&e=1613427802
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/ff7ngwuhc7viegt.m3u8?s=mqlQJo1oX4UGLSxGm0P9VQ&e=1613521019
 
 #EXTINF:-1 tvg-id="CartoonNetwork" group-title="Kids", Cartoon Network
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/1feji.m3u8?s=j3c4NjFW997pw7d9-XCVFA&e=1613427507
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/1feji.m3u8?s=2Vxjer4S9I-O5dm_jlugEw&e=1613521020
 
 #EXTINF:-1 tvg-id="DisneyChannel" group-title="Kids", Disney Channel
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/96859.m3u8?s=B84qUavLrlQOa6FPpraatg&e=1613427787
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/96859.m3u8?s=6Ti39U6evNAxRDW7To1LPQ&e=1613521368
 
 #EXTINF:-1 tvg-id="DisneyJunior.uk" group-title="Kids", Disney Junior
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/inkizfn6wve8oc.m3u8?s=rBiT4weXGrG3jgo1rssKQA&e=1613427529
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/inkizfn6wve8oc.m3u8?s=QSt5Vm_4lfEyFOCQ2EFz_A&e=1613521222
 
 #EXTINF:-1 tvg-id="DisneyXD" group-title="Kids", Disney XD
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/12dyavowb6wnxh3.m3u8?s=Ws2mzAPePY4bvGFbiRnStw&e=1613427785
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/12dyavowb6wnxh3.m3u8?s=jLVGuKHldzPYvlPddZgXTA&e=1613521017
 
 #EXTINF:-1 tvg-id="Tooncast.mx" group-title="Kids", Tooncast
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/9efxxdu.m3u8?s=IkCRoyg6qw4qGcFEOBktNw&e=1613427810
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/9efxxdu.m3u8?s=NKzAildPrXw90_ehcRgghQ&e=1613521389
 
 #EXTINF:-1 tvg-id="Boomerang" group-title="Kids", Boomerang
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/hmnf8ejk.m3u8?s=NTRJEpUzxjuSgGsupg9xHg&e=1613428050
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/hmnf8ejk.m3u8?s=NVn8hdApgy-uRcUIQRU0-w&e=1613521271
 
 #EXTINF:-1 tvg-id="DiscoveryKids.mx" group-title="Kids", Discovery Kids
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/rw14ff8tl5.m3u8?s=MxU8yH4gt6CGWXa7JcOhjQ&e=1613428061
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/rw14ff8tl5.m3u8?s=8zj_OqgR8dYUrcwqlePQew&e=1613521209
 
 #EXTINF:-1 tvg-id="Nicktoons" group-title="Kids", Nicktoons
 https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/vgwtkzk.m3u8?s=OlrG9pQVCzIZjskxemm1Xw&e=1613428198
