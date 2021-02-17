@@ -2,20 +2,14 @@
 #EXTINF:-1 tvg-id="HCH" group-title="Honduras", HCH
 https://5d597bfcee285.streamlock.net/hch/hch/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dubox.com/s/1EfBZVI43u-hxfi3-NaCAeA" group-title="Kids", Distrito Comedia
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/3cmcveklru0.m3u8?s=cudWaw-JanLWXIJc1lo6uQ&e=1613520762
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Distrito_Comedia_%282018%29_%281%29.png" group-title="Kids", Distrito Comedia
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/3cmcveklru0.m3u8?s=cudWaw-JanLWXIJc1lo6uQ&e=1613520762
-
 #EXTINF:-1 tvg-id="DistritoComedia.mx" group-title="Kids", Distrito Comedia
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/3cmcveklru0.m3u8?s=cudWaw-JanLWXIJc1lo6uQ&e=1613520762
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/3cmcveklru0.m3u8?s=VlhLSUa9JUonszl20DjNAg&e=1613546992
 
 #EXTINF:-1 tvg-id="Azteca7.mx" group-title="Kids", Azteca 7
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/yv4z9a.m3u8?s=uwonFjgZhn7rNvsJ-HPf1w&e=1613521021
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/yv4z9a.m3u8?s=7BFsUpeyt6L5svIgxKEk0w&e=1613546984
 
 #EXTINF:-1 tvg-id="Canal5.mx" group-title="Kids", Canal 5
-https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/da0s08.m3u8?s=nkFtWoimlb_RDCZqUVp-_A&e=1613521020
+https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/da0s08.m3u8?s=mHfn9QpZErEcVEzcowq66Q&e=1613546970
 
 #EXTINF:-1 tvg-id="Nickelodeon" group-title="Kids", Nickelodeon
 https://f3ucyqcwtdaf9496.ezcdn462.net:8443/hls/ff7ngwuhc7viegt.m3u8?s=mqlQJo1oX4UGLSxGm0P9VQ&e=1613521019
