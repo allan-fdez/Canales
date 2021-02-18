@@ -11,14 +11,20 @@ https://p3fe2ar62kvh8vrp.ezcdn483.net:8443/hls/da0s08.m3u8?s=l2J_LnpD952M0x2DbWE
 #EXTINF:-1 tvg-id="Azteca7" group-title="Kids", Azteca 7
 https://p3fe2ar62kvh8vrp.ezcdn483.net:8443/hls/yv4z9a.m3u8?s=Ef1dMnUCCiwaCVCuFboO2A&e=1613683539
 
-#EXTINF:-1 tvg-id="Nickelodeon" group-title="Kids", Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon" group-title="Kids", Nick
 https://p3fe2ar62kvh8vrp.ezcdn483.net:8443/hls/ff7ngwuhc7viegt.m3u8?s=lufI7U5r9QdlrGWuJP-tVg&e=1613683539
+
+#EXTINF:-1 tvg-id="Nickelodeon" group-title="Kids", Nickelodeon Latino
+https://p3fe2ar62kvh8vrp.ezcdn483.net:8443/hls/ff7ngwuhc7viegt.m3u8?s=vO_e5uvOyfYKt9AZqiKLVA&e=1613684623
 
 #EXTINF:-1 tvg-id="CartoonNetwork" group-title="Kids", Cartoon Network
 https://p3fe2ar62kvh8vrp.ezcdn483.net:8443/hls/1feji.m3u8?s=f5ye3hqsgu1LbIPNaRWPYA&e=1613683540
 
 #EXTINF:-1 tvg-id="DisneyChannel" group-title="Kids", Disney Channel
 https://p3fe2ar62kvh8vrp.ezcdn483.net:8443/hls/96859.m3u8?s=r7zqVg7d7fXws03NbQwnDQ&e=1613683541
+
+#EXTINF:-1 tvg-id="DisneyChannel" group-title="Kids", Disney Channel Latino
+https://p3fe2ar62kvh8vrp.ezcdn483.net:8443/hls/96859.m3u8?s=A1jLCOROeeu4ITEzHJYMYg&e=1613684969
 
 #EXTINF:-1 tvg-id="DisneyJunior" group-title="Kids", Disney Junior
 https://p3fe2ar62kvh8vrp.ezcdn483.net:8443/hls/inkizfn6wve8oc.m3u8?s=PoYoitmMBBcvhhhPsWRA5g&e=1613683781
