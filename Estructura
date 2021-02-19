@@ -1,0 +1,206 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HCH" group-title="Honduras", HCH
+https://5d597bfcee285.streamlock.net/hch/hch/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DistritoComedia" group-title="Kids", Distrito Comedia
+
+
+#EXTINF:-1 tvg-id="Canal5" group-title="Kids", Canal 5
+
+
+#EXTINF:-1 tvg-id="Azteca7" group-title="Kids", Azteca 7
+
+
+#EXTINF:-1 tvg-id="Nickelodeon" group-title="Kids", Nick
+
+
+#EXTINF:-1 tvg-id="Nick2" group-title="Kids", TeenNick
+
+
+#EXTINF:-1 tvg-id="CartoonNetwork" group-title="Kids", Cartoon Network
+
+
+#EXTINF:-1 tvg-id="DisneyChannel" group-title="Kids", Disney Channel
+
+
+#EXTINF:-1 tvg-id="DisneyJunior" group-title="Kids", Disney Junior
+
+
+#EXTINF:-1 tvg-id="DisneyXD" group-title="Kids", Disney XD
+
+
+#EXTINF:-1 tvg-id="Tooncast" group-title="Kids", Tooncast
+
+
+#EXTINF:-1 tvg-id="Boomerang" group-title="Kids", Boomerang
+
+
+#EXTINF:-1 tvg-id="DiscoveryKids" group-title="Kids", Discovery Kids
+
+
+#EXTINF:-1 tvg-id="Nicktoons" group-title="Kids", Nicktoons
+
+
+#EXTINF:-1 tvg-id="NatGeoKids" group-title="Kids", NatGeo Kids
+
+
+#EXTINF:-1 tvg-id="Nickclasico" group-title="Kids ", Nick clásico 
+
+
+#EXTINF:-1 tvg-id="DragonBallZ" group-title="Kids", Dragon Ball Z
+
+
+#EXTINF:-1 tvg-id="--" group-title="Kids", --
+
+
+#EXTINF:-1 tvg-id="Fox" group-title="Cable Básico", Fox
+
+
+#EXTINF:-1 tvg-id="FoxAction" group-title="FOX Premium", Fox Action
+
+
+#EXTINF:-1 tvg-id="FoxSeries" group-title="FOX Premium", Fox Series
+
+
+#EXTINF:-1 tvg-id="FoxFamily" group-title="FOX Premium", Fox Family
+
+
+#EXTINF:-1 tvg-id="FoxMovies" group-title="FOX Premium", Fox Movies
+
+
+#EXTINF:-1 tvg-id="FoxComedy" group-title="FOX Premium", Fox Comedy
+
+
+#EXTINF:-1 tvg-id="FoxCinema" group-title="FOX Premium", Fox Cinema
+
+
+#EXTINF:-1 tvg-id="FoxClassics" group-title="FOX Premium", Fox Classics
+
+
+#EXTINF:-1 tvg-id="FoxLife" group-title="Cable Básico", Fox Life
+
+
+#EXTINF:-1 tvg-id="HBO" group-title="Cable Básico", HBO
+
+
+#EXTINF:-1 tvg-id="HBO2" group-title="HBO Premiun", HBO 2
+
+
+#EXTINF:-1 tvg-id="HboPlus" group-title="HBO Premiun", HBO Plus
+
+
+#EXTINF:-1 tvg-id="Hbofamily" group-title="HBO Premiun", HBO Family
+
+
+#EXTINF:-1 tvg-id="HBOSignature" group-title="HBO Premiun", HBO Signature
+
+
+#EXTINF:-1 tvg-id="HBOXtreme" group-title="HBO Premiun", HBO Xtreme
+
+
+#EXTINF:-1 tvg-id="HBOMundi" group-title="HBO Premiun", HBO Mundi
+
+
+#EXTINF:-1 tvg-id="Cinemax" group-title="Cable Básico", Cinemax
+
+
+#EXTINF:-1 tvg-id="Cinecanal" group-title="Cable Básico", Cinecanal
+
+
+#EXTINF:-1 tvg-id="Golden" group-title="Cable Básico", Golden
+
+
+#EXTINF:-1 tvg-id="GoldenPlus" group-title="Cable Básico", Golden Plus
+
+
+#EXTINF:-1 tvg-id="GoldenPremier" group-title="Cable Básico", Golden Premier
+
+
+#EXTINF:-1 tvg-id="GoldenEdge" group-title="Cable Básico", Golden Edge
+
+
+#EXTINF:-1 tvg-id="DePelicula" group-title="Cable Básico", De Pelicula
+
+
+#EXTINF:-1 tvg-id="TNT" group-title="Cable Básico", TNT
+
+
+#EXTINF:-1 tvg-id="TNTSeries" group-title="Cable Básico", TNT Series
+
+
+#EXTINF:-1 tvg-id="CanalSony" group-title="Cable Básico", Sony
+
+
+#EXTINF:-1 tvg-id="TBS" group-title="Cable Básico", TBS
+
+
+#EXTINF:-1 tvg-id="Paramount" group-title="Cable Básico", Paramount Channel
+
+
+#EXTINF:-1 tvg-id="StudioUniversal" group-title="Cable Básico", Studio Universal
+
+
+#EXTINF:-1 tvg-id="UniversalChannel" group-title="Cable Básico", Universal Channel
+
+
+#EXTINF:-1 tvg-id="Warnerchannel" group-title="Cable Básico", Warner Channel
+
+
+#EXTINF:-1 tvg-id="FX" group-title="Cable Básico", FX
+
+
+#EXTINF:-1 tvg-id="Space" group-title="Cable Básico",Space
+
+
+#EXTINF:-1 tvg-id="AXN" group-title="Cable Básico", AXN
+
+
+#EXTINF:-1 tvg-id="AMC" group-title="Cable Básico", AMC
+
+
+#EXTINF:-1 tvg-id="--" group-title="--", --
+
+
+#EXTINF:-1 tvg-id="Unicable" group-title="México", Unicable
+
+
+#EXTINF:-1 tvg-id="Pasiones" group-title="Telenovelas", Pasiones
+
+
+#EXTINF:-1 tvg-id="Tlnovelas" group-title="Telenovelas", tlnovelas
+
+
+#EXTINF:-1 tvg-id="--" group-title="Cable Básico", --
+
+
+#EXTINF:-1 tvg-id="--" group-title="Cable Básico", --
+
+
+
+#EXTINF:-1 tvg-id="AztecaUno" group-title="México", Azteca Uno
+
+
+#EXTINF:-1 tvg-id="AZCorazon" group-title="México", Az Corazón
+
+
+#EXTINF:-1 tvg-id="AztecaCinema" group-title="México", Azteca Cinema
+
+
+#EXTINF:-1 tvg-id="Telefe" group-title="Cable Básico", TeLeFe
+
+
+#EXTINF:-1 tvg-id="Canal5ElLider" group-title="Honduras", Canal 5 El lider
+
+
+#EXTINF:-1 tvg-id="--" group-title="Cable Básico", 
+
+
+#EXTINF:-1 tvg-id="--" group-title="Cable Básico", 
+
+
+#EXTINF:-1 tvg-id="--" group-title="Cable Básico", 
+
+
+
+
+
