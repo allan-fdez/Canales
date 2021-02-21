@@ -149,6 +149,9 @@ https://5d597bfcee285.streamlock.net/hch/hch/playlist.m3u8
 #EXTINF:-1 tvg-id="FX" group-title="Cable Básico", FX
 
 
+#EXTINF:-1 tvg-id="FXM" group-title="Cable Básico", FXM
+
+
 #EXTINF:-1 tvg-id="Space" group-title="Cable Básico",Space
 
 
