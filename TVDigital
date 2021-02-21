@@ -3,15 +3,15 @@
 https://5d597bfcee285.streamlock.net/hch/hch/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DistritoComedia" group-title="Kids", Distrito Comedia
-https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/3cmcveklru0.m3u8?s=te1VC_Uod6jJABJIg_cnsA&e=1613890895
+https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/3cmcveklru0.m3u8?s=xI1Y9bNKsiVW6SsV06hjVg&e=1613942362
 
 
 #EXTINF:-1 tvg-id="Canal5" group-title="Kids", Canal 5
-https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/da0s08.m3u8?s=0PTEXVH3ccxo3lqfpC-epg&e=1613890990
+https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/da0s08.m3u8?s=9CPnrsVWKaVM-fmYvzUJWg&e=1613943028
 
 
 #EXTINF:-1 tvg-id="Azteca7" group-title="Kids", Azteca 7
-https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/yv4z9a.m3u8?s=7i_F3WsFD2nR13XW0Y8I5w&e=1613890989
+https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/yv4z9a.m3u8?s=n997-MZwjWpzsZjLzda7cw&e=1613943040
 
 
 #EXTINF:-1 tvg-id="Nickelodeon" group-title="Kids", Nick
@@ -33,7 +33,7 @@ https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/yv4z9a.m3u8?s=7i_F3WsFD2nR13XW0Y8I
 
 
 #EXTINF:-1 tvg-id="Tooncast" group-title="Kids", Tooncast
-https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/9efxxdu.m3u8?s=WpOQvaLGBMF2ReAeRpfTTQ&e=1613890991
+https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/9efxxdu.m3u8?s=ffyCh_-AdnLhOqG1IgJeuQ&e=1613943704
 
 
 #EXTINF:-1 tvg-id="Boomerang" group-title="Kids", Boomerang
@@ -61,21 +61,23 @@ https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/9efxxdu.m3u8?s=WpOQvaLGBMF2ReAeRpf
 
 
 #EXTINF:-1 tvg-id="FoxAction" group-title="FOX Premium", Fox Action
+https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/4612rwe.m3u8?s=uJOTyA7eWj-j0sxso1MpCw&e=1613943053
 
 
 #EXTINF:-1 tvg-id="FoxSeries" group-title="FOX Premium", Fox Series
-https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/in515ybo3y.m3u8?s=mR-l0Co4kQthn9Ne06yD9Q&e=1613890992
+https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/in515ybo3y.m3u8?s=9Vfb0mzn48g4SUfaiLh9iA&e=1613943337
 
 
 #EXTINF:-1 tvg-id="FoxFamily" group-title="FOX Premium", Fox Family
-https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/goks9npik9.m3u8?s=Uqq6XQZikyYJ-fI1myv3Ug&e=1613890996
+https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/goks9npik9.m3u8?s=Ts0f0LMigtjsxiPSrZSEUw&e=1613943336
 
 
 #EXTINF:-1 tvg-id="FoxMovies" group-title="FOX Premium", Fox Movies
+https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/4dtc368405sw4mo.m3u8?s=UJxET4ftwMh3_omIC58zQg&e=1613943340
 
 
 #EXTINF:-1 tvg-id="FoxComedy" group-title="FOX Premium", Fox Comedy
-https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/pnc0det5nknvqo.m3u8?s=WqlnoztEivB4Wc8NSNwJIQ&e=1613890988
+https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/pnc0det5nknvqo.m3u8?s=mRejqD1BCEEEADlUtdrdGQ&e=1613943339
 
 
 #EXTINF:-1 tvg-id="FoxCinema" group-title="FOX Premium", Fox Cinema
@@ -85,86 +87,100 @@ https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/pnc0det5nknvqo.m3u8?s=WqlnoztEivB4
 
 
 #EXTINF:-1 tvg-id="FoxLife" group-title="Cable Básico", Fox Life
+https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/aa03um3.m3u8?s=V64-KGbEw4-Z9c5HgFkaYQ&e=1613943674
 
 
 #EXTINF:-1 tvg-id="HBO" group-title="Cable Básico", HBO
-https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/lbqtn3.m3u8?s=XtpHOlgE-d3CTFIYyrUZqw&e=1613891227
+https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/lbqtn3.m3u8?s=_iGNZVBY-EQ261LqfUaiWg&e=1613943475
 
 
 #EXTINF:-1 tvg-id="HBO2" group-title="HBO Premiun", HBO 2
-https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/x5r58d0omlmqph.m3u8?s=lvGwNgyhioiEYfdCh6CgLA&e=1613891239
+https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/x5r58d0omlmqph.m3u8?s=rtlOUIN3N_FLbEE0aZPEYQ&e=1613943485
 
 
 #EXTINF:-1 tvg-id="HboPlus" group-title="HBO Premiun", HBO Plus
-https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/3dgzjbpy.m3u8?s=O2e10wGTwOciIdd8eWlGgw&e=1613891274
+https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/3dgzjbpy.m3u8?s=YRviCW1yrrjHsv2MqBLj7A&e=1613943493
 
 
 #EXTINF:-1 tvg-id="Hbofamily" group-title="HBO Premiun", HBO Family
+https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/mfobze65eqg.m3u8?s=kxbK9IeztlfeEN4dHLfbZw&e=1613943501
 
 
 #EXTINF:-1 tvg-id="HBOSignature" group-title="HBO Premiun", HBO Signature
+https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/g05mnm.m3u8?s=6Rv5vsvRMYAspS9emYIL7g&e=1613943658
 
 
 #EXTINF:-1 tvg-id="HBOXtreme" group-title="HBO Premiun", HBO Xtreme
+https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/8nviuzdhm5jnu.m3u8?s=0MUbp5EZ0B-hHMZcnjXUgA&e=1613943521
 
 
 #EXTINF:-1 tvg-id="HBOMundi" group-title="HBO Premiun", HBO Mundi
+https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/way71f4yp5a3.m3u8?s=jDrsm7IMJYgxPJBI30ts8w&e=1613943533
 
 
 #EXTINF:-1 tvg-id="Cinemax" group-title="Cable Básico", Cinemax
-https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/ztv7sh.m3u8?s=Bf9MKlJwtk07uTKWxM_dtw&e=1613891285
+https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/ztv7sh.m3u8?s=JQcdxDE5eJUUPnIp9k_s5g&e=1613942488
 
 
 #EXTINF:-1 tvg-id="Cinecanal" group-title="Cable Básico", Cinecanal
-https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/ymv0a1aobkxuf.m3u8?s=EmpcsXsMmsooW928yh23Cg&e=1613891310
+https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/ymv0a1aobkxuf.m3u8?s=ZMzQS9Vvc6vAJmlRGRDLCg&e=1613942488
 
 
 #EXTINF:-1 tvg-id="Golden" group-title="Cable Básico", Golden
-https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/lnxn10nmtnl5.m3u8?s=OgvUHzchxX462_A9vzbmqg&e=1613891511
+https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/lnxn10nmtnl5.m3u8?s=Qj7M-RwY2mtTUT_UUisnZA&e=1613942825
 
 
 #EXTINF:-1 tvg-id="GoldenPlus" group-title="Cable Básico", Golden Plus
-https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/daw8b.m3u8?s=q0fygrkXyouXHrFwjlCe6w&e=1613891539
+https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/daw8b.m3u8?s=NHf0xzYFQFX63kYnj0pfJQ&e=1613942843
 
 
 #EXTINF:-1 tvg-id="GoldenPremier" group-title="Cable Básico", Golden Premier
 
 
 #EXTINF:-1 tvg-id="GoldenEdge" group-title="Cable Básico", Golden Edge
-https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/aef8t7z.m3u8?s=sxS4S20V8QlLoaf3WbduuQ&e=1613891534
+https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/aef8t7z.m3u8?s=IKjCjEZ0RQF8H0TNzEG2Cg&e=1613942875
 
 
 #EXTINF:-1 tvg-id="DePelicula" group-title="Cable Básico", De Pelicula
+https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/1zrltg3e.m3u8?s=2zTE1ubnwJ4NrdLR9DxrWQ&e=1613942492
 
 
 #EXTINF:-1 tvg-id="TNT" group-title="Cable Básico", TNT
-https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/glaldsq.m3u8?s=Lbf_WgLeTVjlbCHvO109Zg&e=1613891542
+https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/glaldsq.m3u8?s=v8StYmcqCZn43TymrtdXSg&e=1613942878
 
 
 #EXTINF:-1 tvg-id="TNTSeries" group-title="Cable Básico", TNT Series
-https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/uw2t3eem.m3u8?s=xNsy071JjgK3nJ_60ZWZLg&e=1613891541
+https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/uw2t3eem.m3u8?s=Yg1ekbvuhJYGmHbqhDeerA&e=1613942879
 
 
 #EXTINF:-1 tvg-id="CanalSony" group-title="Cable Básico", Sony
 
 
 #EXTINF:-1 tvg-id="TBS" group-title="Cable Básico", TBS
+https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/zt5tkrst5tw71c.m3u8?s=egW3Jljr1KPP34aOQapNdQ&e=1613942489
 
 
 #EXTINF:-1 tvg-id="Paramount" group-title="Cable Básico", Paramount Channel
-https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/vwchy5d.m3u8?s=fVr7sO50VxPyNA7RoTCOcQ&e=1613891312
+https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/vwchy5d.m3u8?s=mrzwAtSSq5btaX7SM0yueQ&e=1613942493
 
 
 #EXTINF:-1 tvg-id="StudioUniversal" group-title="Cable Básico", Studio Universal
+https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/rdz85fjy0wuhhv.m3u8?s=20ulVEGmhTe12naOwV42jA&e=1613942495
 
 
 #EXTINF:-1 tvg-id="UniversalChannel" group-title="Cable Básico", Universal Channel
+https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/d77wqro8917ua5z.m3u8?s=fh35kiopeGY7GwHVnmRKfg&e=1613942494
 
 
 #EXTINF:-1 tvg-id="Warnerchannel" group-title="Cable Básico", Warner Channel
 
 
 #EXTINF:-1 tvg-id="FX" group-title="Cable Básico", FX
+https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/3cuvpp5n.m3u8?s=is82_qhefOztdKyApcSIeg&e=1613942260
+
+
+#EXTINF:-1 tvg-id="FXM" group-title="Cable Básico", FXM
+https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/jpizlg1osqocv.m3u8?s=gbbKEz-TFaPcO3Frben_Sw&e=1613942260
 
 
 #EXTINF:-1 tvg-id="Space" group-title="Cable Básico",Space
@@ -183,9 +199,11 @@ https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/vwchy5d.m3u8?s=fVr7sO50VxPyNA7RoTC
 
 
 #EXTINF:-1 tvg-id="Pasiones" group-title="Telenovelas", Pasiones
+https://edge4-hr.cvattv.com.ar:443/live/live/Pasiones/verimatrix_rotating_FTA/Pasiones-video=1200000.m3u8
 
 
 #EXTINF:-1 tvg-id="Tlnovelas" group-title="Telenovelas", tlnovelas
+https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/lmjmb1tcvkbgm0.m3u8?s=ftC3DHLWCFFEwZJSBK3wWQ&e=1613943678
 
 
 #EXTINF:-1 tvg-id="--" group-title="Cable Básico", --
