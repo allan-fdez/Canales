@@ -3,13 +3,11 @@
 https://5d597bfcee285.streamlock.net/hch/hch/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DistritoComedia" group-title="Kids", Distrito Comedia
-https://28awq7cp3eu98hew.ezcdn483.net:8443/hls/3cmcveklru0.m3u8?s=tgPy-Mypy1evwgb4Gus1Pg&e=1614060919
-
+https://28awq7cp3eu98hew.ezcdn483.net:8443/hls/3cmcveklru0.m3u8?s=pePIh98neciPCjezRMWiGw&e=1614153629
 #EXTINF:-1 tvg-id="Canal5" group-title="Kids", Canal 5
-https://28awq7cp3eu98hew.ezcdn483.net:8443/hls/da0s08.m3u8?s=N4DkO1T3n59zTeN8uTfRSw&e=1614060796
-
+https://28awq7cp3eu98hew.ezcdn483.net:8443/hls/da0s08.m3u8?s=82DWO65UUN25O13LRMpveA&e=1614153649
 #EXTINF:-1 tvg-id="Azteca7" group-title="Kids", Azteca 7
-https://28awq7cp3eu98hew.ezcdn483.net:8443/hls/yv4z9a.m3u8?s=2dkcVlFuaEg4kNAKt8aRtA&e=1614060813
+
 
 #EXTINF:-1 tvg-id="Nickelodeon" group-title="Kids", Nick
 
