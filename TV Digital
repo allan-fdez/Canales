@@ -3,20 +3,21 @@
 https://5d597bfcee285.streamlock.net/hch/hch/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DistritoComedia" group-title="Kids", Distrito Comedia
-https://28awq7cp3eu98hew.ezcdn483.net:8443/hls/3cmcveklru0.m3u8?s=pePIh98neciPCjezRMWiGw&e=1614153629
+https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/3cmcveklru0.m3u8?s=V0a357V3-AiPXloVVCJUGQ&e=1614229686
 #EXTINF:-1 tvg-id="Canal5" group-title="Kids", Canal 5
-https://28awq7cp3eu98hew.ezcdn483.net:8443/hls/da0s08.m3u8?s=82DWO65UUN25O13LRMpveA&e=1614153649
+https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/da0s08.m3u8?s=fXS2YBz-y5rANqsdXsdWuA&e=1614229642
+
 #EXTINF:-1 tvg-id="Azteca7" group-title="Kids", Azteca 7
+https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/yv4z9a.m3u8?s=rQZtFAcOha9oVAYkqBSCSA&e=1614229668
 
+#EXTINF:-1 tvg-id="Nickelodeon" group-title="",
+https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/vwchy5d.m3u8?s=x9oL6QgBneYkxr04sinctQ&e=1614229695
 
-#EXTINF:-1 tvg-id="Nickelodeon" group-title="Kids", Nick
+#EXTINF:-1 tvg-id="Nick2" group-title="",
+https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/goks9npik9.m3u8?s=mAyvUeHfQtYe9PFFF2x9Og&e=1614229699
 
-
-#EXTINF:-1 tvg-id="Nick2" group-title="Kids", TeenNick
-
-
-#EXTINF:-1 tvg-id="CartoonNetwork" group-title="Kids", Cartoon Network
-
+#EXTINF:-1 tvg-id="CartoonNetwork" group-title="",
+https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/in515ybo3y.m3u8?s=lHyEVhUiA2d29SPrVNTKEg&e=1614229698
 
 #EXTINF:-1 tvg-id="DisneyChannel" group-title="Kids", Disney Channel
 
@@ -53,25 +54,4 @@ https://28awq7cp3eu98hew.ezcdn483.net:8443/hls/da0s08.m3u8?s=82DWO65UUN25O13LRMp
 
 #EXTINF:-1 tvg-id="Fox" group-title="Cable Básico", Fox
 
-
-#EXTINF:-1 tvg-id="FoxAction" group-title="FOX Premium", Fox Action
-https://28awq7cp3eu98hew.ezcdn483.net:8443/hls/4612rwe.m3u8?s=1mBfgPdkMW2y1Emsv_Kn4Q&e=1614061092
-
-#EXTINF:-1 tvg-id="FoxSeries" group-title="FOX Premium", Fox Series
-https://28awq7cp3eu98hew.ezcdn483.net:8443/hls/in515ybo3y.m3u8?s=misLXZ82h4E_kkPg6gdNvw&e=1614060930
-
-#EXTINF:-1 tvg-id="FoxFamily" group-title="FOX Premium", Fox Family
-https://28awq7cp3eu98hew.ezcdn483.net:8443/hls/goks9npik9.m3u8?s=yT72A2tWKv6YNOibB7dd6w&e=1614060976
-
-#EXTINF:-1 tvg-id="FoxMovies" group-title="FOX Premium", Fox Movies
-https://28awq7cp3eu98hew.ezcdn483.net:8443/hls/4dtc368405sw4mo.m3u8?s=AVHjY5VuLjD1obqJHvrRWQ&e=1614061106
-
-#EXTINF:-1 tvg-id="FoxComedy" group-title="FOX Premium", Fox Comedy
-https://28awq7cp3eu98hew.ezcdn483.net:8443/hls/pnc0det5nknvqo.m3u8?s=3byaEP7np-klW-ul410Jcg&e=1614060976
-
-#EXTINF:-1 tvg-id="FoxCinema" group-title="FOX Premium", Fox Cinema
-https://28awq7cp3eu98hew.ezcdn483.net:8443/hls/5s69x53079q85.m3u8?s=a0j6yEY-NT2Q59nOQWntsg&e=1614061113
-
-#EXTINF:-1 tvg-id="FoxClassics" group-title="FOX Premium", Fox Classics
-https://28awq7cp3eu98hew.ezcdn483.net:8443/hls/nmgmf0p714cb.m3u8?s=BP8h88N85-ebzEsdwVDyjQ&e=1614061124
 
