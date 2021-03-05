@@ -3,13 +3,13 @@
 https://5d597bfcee285.streamlock.net/hch/hch/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DistritoComedia" group-title="Kids", Distrito Comedia
-https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/3cmcveklru0.m3u8?s=qqZzcmFStX0-GJ6Hy5Yefw&e=1614836135
+https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/3cmcveklru0.m3u8?s=GgPh6Ri8A0CAZl553Kx3ew&e=1614925565
 
 #EXTINF:-1 tvg-id="Canal5" group-title="Kids", Canal 5
-https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/da0s08.m3u8?s=EeEbz2s8gVPQf9hmJtsTNQ&e=1614836108
+https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/da0s08.m3u8?s=f4RoZE7sEUF1rZTjVQvcRA&e=1614925516
 
 #EXTINF:-1 tvg-id="Azteca7" group-title="Kids", Azteca 7
-https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/yv4z9a.m3u8?s=twcgg2NF6xhyqpZdu18UeA&e=1614836120
+https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/yv4z9a.m3u8?s=rffaL-UTNvc85-HapaAplQ&e=1614925530
 
 #EXTINF:-1 tvg-id="Nickelodeon" group-title="Kids", Nick
 
@@ -63,7 +63,7 @@ https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/yv4z9a.m3u8?s=twcgg2NF6xhyqpZdu18
 
 
 #EXTINF:-1 tvg-id="FoxFamily" group-title="FOX Premium", Fox Family
-
+https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/goks9npik9.m3u8?s=IjMIW29AmJL1JPKkulmM1Q&e=1614925544
 
 #EXTINF:-1 tvg-id="FoxMovies" group-title="FOX Premium", Fox Movies
 
@@ -90,7 +90,7 @@ https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/yv4z9a.m3u8?s=twcgg2NF6xhyqpZdu18
 
 
 #EXTINF:-1 tvg-id="Hbofamily" group-title="HBO Premiun", HBO Family
-
+https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/mfobze65eqg.m3u8?s=mWYDlYlEU4A34HE5kyLplA&e=1614925550
 
 #EXTINF:-1 tvg-id="HBOSignature" group-title="HBO Premiun", HBO Signature
 
