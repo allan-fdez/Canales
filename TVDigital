@@ -11,8 +11,8 @@ https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/da0s08.m3u8?s=a3xnnJq1RVbEr9IoF1Z
 #EXTINF:-1 tvg-id="Azteca7" group-title="Kids", Azteca 7
 https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/yv4z9a.m3u8?s=agLxCLq53JFa97QWk7z1Kg&e=1615354813
 
-#EXTINF:-1 tvg-id="Nickelodeon" group-title="Kids", Nick
-
+#EXTINF:-1 tvg-id="Bitme" group-title="Kids", BitMe
+https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/21zryaxtu4y.m3u8?s=p2PMDt0sWBO-R5aE-qP8Zg&e=1615433999
 
 #EXTINF:-1 tvg-id="Nick2" group-title="Kids", TeenNick
 
