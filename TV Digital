@@ -3,19 +3,22 @@
 https://5d597bfcee285.streamlock.net/hch/hch/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DistritoComedia" group-title="Kids", Distrito Comedia
-https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/3cmcveklru0.m3u8?s=NXHU5yKWu5PuiRauYNi-Ow&e=1615354827
+https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/3cmcveklru0.m3u8?s=JgMqajh5T38D7KVurZWxuw&e=1615439586
 
 #EXTINF:-1 tvg-id="Canal5" group-title="Kids", Canal 5
-https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/da0s08.m3u8?s=a3xnnJq1RVbEr9IoF1Z1rg&e=1615354809
+https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/da0s08.m3u8?s=avNboPw5SKJDO7G7_7U3dg&e=1615439199
 
 #EXTINF:-1 tvg-id="Azteca7" group-title="Kids", Azteca 7
-https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/yv4z9a.m3u8?s=agLxCLq53JFa97QWk7z1Kg&e=1615354813
+https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/yv4z9a.m3u8?s=iLA5QMGzmWjKqN-Ou7EW7Q&e=1615439218
 
-#EXTINF:-1 tvg-id="Bitme" group-title="Kids", BitMe
-https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/21zryaxtu4y.m3u8?s=p2PMDt0sWBO-R5aE-qP8Zg&e=1615433999
+#EXTINF:-1 tvg-id="BitMe" group-title="Kids", BitMe
+https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/21zryaxtu4y.m3u8?s=NkjtDbvrSxVySr8TZot-Dg&e=1615439632
+
+#EXTINF:-1 tvg-id="Nickelodeon" group-title="Kids", nick
+https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/aa03um3.m3u8?s=k8MWQpGLgKbaEkHn7winlQ&e=1615439831
 
 #EXTINF:-1 tvg-id="Nick2" group-title="Kids", TeenNick
-
+https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/3cmcveklru0.m3u8?s=Qg8prTjS8GVP6jkQu4nJsQ&e=1615439889
 
 #EXTINF:-1 tvg-id="CartoonNetwork" group-title="Kids", Cartoon Network
 
@@ -60,10 +63,10 @@ https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/21zryaxtu4y.m3u8?s=p2PMDt0sWBO-R5
 
 
 #EXTINF:-1 tvg-id="FoxSeries" group-title="FOX Premium", Fox Series
-https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/in515ybo3y.m3u8?s=LhrJaLHvSzdkVNuNYumv6A&e=1615354841
+
 
 #EXTINF:-1 tvg-id="FoxFamily" group-title="FOX Premium", Fox Family
-https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/goks9npik9.m3u8?s=eq8-xcqpVc5MT6vArEY0lg&e=1615354839
+
 
 #EXTINF:-1 tvg-id="FoxMovies" group-title="FOX Premium", Fox Movies
 
@@ -135,7 +138,7 @@ https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/goks9npik9.m3u8?s=eq8-xcqpVc5MT6v
 
 
 #EXTINF:-1 tvg-id="Paramount" group-title="Cable Básico", Paramount Channel
-https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/vwchy5d.m3u8?s=sypiy5S8tEOOcNIo89xIjw&e=1615354829
+
 
 #EXTINF:-1 tvg-id="StudioUniversal" group-title="Cable Básico", Studio Universal
 
