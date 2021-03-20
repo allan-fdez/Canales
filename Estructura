@@ -50,9 +50,6 @@ https://5d597bfcee285.streamlock.net/hch/hch/playlist.m3u8
 #EXTINF:-1 tvg-id="Nickclasico" group-title="Kids ", Nick clásico 
 
 
-#EXTINF:-1 tvg-id="DragonBallZ" group-title="Kids", Dragon Ball Z
-
-
 #EXTINF:-1 tvg-id="--" group-title="Kids", --
 
 
@@ -86,22 +83,25 @@ https://5d597bfcee285.streamlock.net/hch/hch/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO" group-title="Cable Básico", HBO
 
 
-#EXTINF:-1 tvg-id="HBO2" group-title="HBO Premiun", HBO 2
+#EXTINF:-1 tvg-id="HBO2" group-title="HBO Premium", HBO 2
 
 
-#EXTINF:-1 tvg-id="HboPlus" group-title="HBO Premiun", HBO+
+#EXTINF:-1 tvg-id="HBOPop" group-title="HBO Premium", HBO Pop
 
 
-#EXTINF:-1 tvg-id="Hbofamily" group-title="HBO Premiun", HBO Family
+#EXTINF:-1 tvg-id="HboPlus" group-title="HBO Premium", HBO+
 
 
-#EXTINF:-1 tvg-id="HBOSignature" group-title="HBO Premiun", HBO Signature
+#EXTINF:-1 tvg-id="Hbofamily" group-title="HBO Premium", HBO Family
 
 
-#EXTINF:-1 tvg-id="HBOXtreme" group-title="HBO Premiun", HBO Xtreme
+#EXTINF:-1 tvg-id="HBOSignature" group-title="HBO Premium", HBO Signature
 
 
-#EXTINF:-1 tvg-id="HBOMundi" group-title="HBO Premiun", HBO Mundi
+#EXTINF:-1 tvg-id="HBOXtreme" group-title="HBO Premium", HBO Xtreme
+
+
+#EXTINF:-1 tvg-id="HBOMundi" group-title="HBO Premium", HBO Mundi
 
 
 #EXTINF:-1 tvg-id="Cinemax" group-title="Cable Básico", Cinemax
