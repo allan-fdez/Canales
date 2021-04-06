@@ -53,5 +53,15 @@ https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/way71f4yp5a3.m3u8?s=ahT0fHtJ7pg7O
 #EXTINF:-1 tvg-id="HBOMundi" group-title="HBO Premium", HBO Mundi
 https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/8nviuzdhm5jnu.m3u8?s=hL9FDThtfxCmHXbaQTAtig&e=1617767033
 
+#EXTINF:-1 tvg-id="Paramount" group-title="Cable Básico", Paramount Channel
+https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/vwchy5d.m3u8?s=MLrUvhlaSnqRmjRP338nsg&e=1617767594
 
+#EXTINF:-1 tvg-id="GoldenPlus" group-title="Cable Básico", Golden Plus
+https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/daw8b.m3u8?s=yEpDyZShjaTgXhLAG-cgPA&e=1617767589
+
+#EXTINF:-1 tvg-id="GoldenEdge" group-title="Cable Básico", Golden Edge  
+https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/aef8t7z.m3u8?s=UgwEQuIyPf2e9Th5w0mfxA&e=1617767569
+
+#EXTINF:-1 tvg-id="TNTSeries" group-title="Cable Básico", TNT Series
+https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/uw2t3eem.m3u8?s=WKIHcVKXGGRGIjeBhD8w3w&e=1617767559
 
