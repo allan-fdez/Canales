@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="DistritoComedia" group-title="Kids", Distrito Comedia
-
+#EXTINF:-1 tvg-id="DistritoComedia" group-title="Películas", Godzila Vs. King Kong
+https://s10.zplayer.live/hls/5fxcvifowcnufvsa6khu7wwr4fliv3lqsyhdm6c4cdhbo3s7r5u4lptsowja/index-v1-a1.m3u8
 
 #EXTINF:-1 tvg-id="Canal5" group-title="Kids", Canal 5
 
