@@ -1,69 +1,68 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="DistritoComedia" group-title="Kids", Distrito Comedia 
-https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/3cmcveklru0.m3u8?s=ZmJrFPattIufFnTUerxymg&e=1617937972
+https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/3cmcveklru0.m3u8?s=GCHxvsWndkE_H2MeM4oTzw&e=1618011585
 
 #EXTINF:-1 tvg-id="Canal5" group-title="Kids", Canal 5 
-https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/da0s08.m3u8?s=iGUg3_NlFVkHGdZGmBfyCg&e=1617937947
+https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/da0s08.m3u8?s=75TrY5sG8Z84EWzvBkDmaw&e=1618011560
 
 #EXTINF:-1 tvg-id="Azteca7" group-title="Kids", Azteca 7 
-https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/yv4z9a.m3u8?s=0iBmOpdWDyCxb-D9dB7Xvw&e=1617937943
+https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/yv4z9a.m3u8?s=fJx0Tt3-pMydBUgg99C3oQ&e=1618011536
 
 #EXTINF:-1 tvg-id="BitMe" group-title="Kids", BitMe 
-https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/21zryaxtu4y.m3u8?s=XyMBrzGE6bGTT6unJYzzYA&e=1617937917
+https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/21zryaxtu4y.m3u8?s=ohcXY7--F0IsJO6vijV6FQ&e=1618011494
 
-#EXTINF:-1 tvg-id="ToonCast" group-title="Kids", Tooncast 
-https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/9efxxdu.m3u8?s=j_dIvpofZy9qQPcuR0BxsA&e=1617938628
+#EXTINF:-1 tvg-id="ToonCast" group-title="Kids", Tooncast
+
 
 #EXTINF:-1 tvg-id="FoxAction" group-title="FOX Premium", Fox Action 
-https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/4612rwe.m3u8?s=fu8yPMhGb1CIsQoPdUFISw&e=1617938123
+
 
 #EXTINF:-1 tvg-id="FoxSeries" group-title="FOX Premium", Fox Series 
-https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/in515ybo3y.m3u8?s=huJQr-vgwklaKj7zEdrLsw&e=1617938124
+
 
 #EXTINF:-1 tvg-id="FoxFamily" group-title="FOX Premium", Fox Family 
-https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/goks9npik9.m3u8?s=Chb12HpXiHJ1qfDPoeCaRA&e=1617938094
+
 
 #EXTINF:-1 tvg-id="FoxMovies" group-title="FOX Premium", Fox Movies 
-https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/4dtc368405sw4mo.m3u8?s=5ypLYOtlN9jpkdAoHnh7-A&e=1617938088
+
 
 #EXTINF:-1 tvg-id="FoxComedy" group-title="FOX Premium", Fox Comedy 
-https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/pnc0det5nknvqo.m3u8?s=_djJWVd9MMPAQh7AgpH0JQ&e=1617938081
+
 
 #EXTINF:-1 tvg-id="FoxCinema" group-title="FOX Premium", Fox Cinema 
-https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/5s69x53079q85.m3u8?s=1gLY1JcRyeT8uQ35FVDFaQ&e=1617938073
+
 
 #EXTINF:-1 tvg-id="FoxClassics" group-title="FOX Premium", Fox Classics
-https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/nmgmf0p714cb.m3u8?s=S8u1xMCQrZrL2NBFBIYnng&e=1617938059
+
 
 #EXTINF:-1 tvg-id="HBO2" group-title="HBO Premium", HBO 2 
-https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/x5r58d0omlmqph.m3u8?s=orxiCUWNimr5ioAybBLCeA&e=1617938315
+
 
 #EXTINF:-1 tvg-id="HBOPop" group-title="HBO Premium", HBO Pop 
-https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/rvqh1fziz.m3u8?s=CyWIhN-H1O5Ll4-6ihG3Hg&e=1617938313
+
 
 #EXTINF:-1 tvg-id="HboPlus" group-title="HBO Premium", HBO+ 
-https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/3dgzjbpy.m3u8?s=1EMAUILJOeVwCIRIer1Adg&e=1617938289
+
 
 #EXTINF:-1 tvg-id="Hbofamily" group-title="HBO Premium", HBO Family 
-https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/mfobze65eqg.m3u8?s=HRKQy1y5iXuJVjQN9loIKw&e=1617938284
+
 
 #EXTINF:-1 tvg-id="HBOSignature" group-title="HBO Premium", HBO Signature 
-https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/g05mnm.m3u8?s=EDbaSJsEYvVqG7PczB7kZg&e=1617938258
+
 
 #EXTINF:-1 tvg-id="HBOXtreme" group-title="HBO Premium", HBO Xtreme 
-https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/way71f4yp5a3.m3u8?s=7YgHSaSzd2Lz5Rw7fK7IDA&e=1617938245
+
 
 #EXTINF:-1 tvg-id="HBOMundi" group-title="HBO Premium", HBO Mundi
-https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/8nviuzdhm5jnu.m3u8?s=CaplN9a2047RWPDIRDKg2g&e=1617938229
+
 
 #EXTINF:-1 tvg-id="Paramount" group-title="Cable Básico", Paramount Channel
-https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/vwchy5d.m3u8?s=3ESrjsQ_2ukTxVGaEhxiZw&e=1617938454
+
 
 #EXTINF:-1 tvg-id="GoldenPlus" group-title="Cable Básico", Golden Plus
-https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/daw8b.m3u8?s=dNBkygphtcTC-6AXSzXe-Q&e=1617938445
+
 
 #EXTINF:-1 tvg-id="GoldenEdge" group-title="Cable Básico", Golden Edge  
-https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/aef8t7z.m3u8?s=s0JM_ezi2shJIe-v1wopiw&e=1617938434
+
 
 #EXTINF:-1 tvg-id="TNTSeries" group-title="Cable Básico", TNT Series
-https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/uw2t3eem.m3u8?s=Hiom7Xm1MBDuP4NolFZYWA&e=1617938416
