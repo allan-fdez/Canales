@@ -8,10 +8,7 @@
 #EXTINF:-1 tvg-id="Azteca7" group-title="Kids", Azteca 7 
 
 
-#EXTINF:-1 tvg-id="BitMe" group
-
-
--title="Kids", BitMe 
+#EXTINF:-1 tvg-id="BitMe" group-title="Kids", BitMe 
 
 
 #EXTINF:-1 tvg-id="FoxAction" group-title="FOX Premium", Fox Action 
