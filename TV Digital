@@ -1,57 +1,58 @@
 #EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-id="DistritoComedia" group-title="Kids", Distrito Comedia 
-https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/3cmcveklru0.m3u8?s=GB3aBY6byTTRttofXITdVQ&e=1618633224
+https://sgynhk35h4v06h77.ezcdn285.net:8443/hls/3cmcveklru0.m3u8?s=kQb8ybcf8UZPlKchUXheaA&e=1620690177
 
 #EXTINF:-1 tvg-id="Canal5" group-title="Kids", Canal 5 
-https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/da0s08.m3u8?s=H8HYaZkRyTJSC9lFhlo60w&e=1618633217
+https://sgynhk35h4v06h77.ezcdn285.net:8443/hls/da0s08.m3u8?s=1xEeyW4SLlI0CAWqMzLNew&e=1620690204
 
 #EXTINF:-1 tvg-id="Azteca7" group-title="Kids", Azteca 7 
-https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/yv4z9a.m3u8?s=lQ_0kkl2ces6bS9NIS6_oA&e=1618633206
+https://sgynhk35h4v06h77.ezcdn285.net:8443/hls/yv4z9a.m3u8?s=nSNFk6ZSMq8rGmD9SKX1dw&e=1620690167
 
 #EXTINF:-1 tvg-id="BitMe" group-title="Kids", BitMe 
-https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/21zryaxtu4y.m3u8?s=lVroMbt6Wd1w5SPKxzdnfA&e=1618633180
+https://sgynhk35h4v06h77.ezcdn285.net:8443/hls/21zryaxtu4y.m3u8?s=BOirfgF-L4qpRZXCR3dmZA&e=1620690119
 
 #EXTINF:-1 tvg-id="FoxAction" group-title="FOX Premium", Fox Action 
-
+https://sgynhk35h4v06h77.ezcdn285.net:8443/hls/j3lzbohm6fc0bp.m3u8?s=YRcBOKPKRJrlbUT1IltyzA&e=1620690381
 
 #EXTINF:-1 tvg-id="FoxSeries" group-title="FOX Premium", Fox Series 
-
+https://sgynhk35h4v06h77.ezcdn285.net:8443/hls/in515ybo3y.m3u8?s=1NhqgRd7mrGPryIcPxZDuQ&e=1620690373
 
 #EXTINF:-1 tvg-id="FoxFamily" group-title="FOX Premium", Fox Family 
-
+https://sgynhk35h4v06h77.ezcdn285.net:8443/hls/pnc0det5nknvqo.m3u8?s=bQbP4T3b4iJfoLUGIbeKjw&e=1620690343
 
 #EXTINF:-1 tvg-id="FoxMovies" group-title="FOX Premium", Fox Movies 
-https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/4dtc368405sw4mo.m3u8?s=WeIqVD0fBiAcHrbBaOvKIg&e=1618633437
+https://sgynhk35h4v06h77.ezcdn285.net:8443/hls/4dtc368405sw4mo.m3u8?s=cyGQ4lYWkdYYUkTvSQdF1Q&e=1620690342
 
 #EXTINF:-1 tvg-id="FoxComedy" group-title="FOX Premium", Fox Comedy 
-https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/goks9npik9.m3u8?s=MoPFn3BUeTYjZQtsyhtkdA&e=1618633407
+https://sgynhk35h4v06h77.ezcdn285.net:8443/hls/pnc0det5nknvqo.m3u8?s=klVrIjBAFCH9hRb_dCQqZA&e=1620690324
 
 #EXTINF:-1 tvg-id="FoxCinema" group-title="FOX Premium", Fox Cinema 
-https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/5s69x53079q85.m3u8?s=wWI95FparNeQW-1qU9SQLg&e=1618633385
+https://sgynhk35h4v06h77.ezcdn285.net:8443/hls/5s69x53079q85.m3u8?s=ddKtbwL4Eq75JHQXKzkVnQ&e=1620690316
 
 #EXTINF:-1 tvg-id="FoxClassics" group-title="FOX Premium", Fox Classics
-https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/nmgmf0p714cb.m3u8?s=5AVDEuHu8VSWdNQw9WmApg&e=1618633373
+https://sgynhk35h4v06h77.ezcdn285.net:8443/hls/nmgmf0p714cb.m3u8?s=PtRyyFzrF3h91GdAQEeEVQ&e=1620690302
 
 #EXTINF:-1 tvg-id="HBO2" group-title="HBO Premium", HBO 2 
-
+https://sgynhk35h4v06h77.ezcdn285.net:8443/hls/x5r58d0omlmqph.m3u8?s=eaNpIFHeRjOXpoNqcUYBDQ&e=1620690571
 
 #EXTINF:-1 tvg-id="HBOPop" group-title="HBO Premium", HBO Pop 
-
+https://sgynhk35h4v06h77.ezcdn285.net:8443/hls/rvqh1fziz.m3u8?s=CTw7dTzea-Nc9davdAo0sw&e=1620690570
 
 #EXTINF:-1 tvg-id="HboPlus" group-title="HBO Premium", HBO+ 
-
+https://sgynhk35h4v06h77.ezcdn285.net:8443/hls/3dgzjbpy.m3u8?s=XfcQpjJJjkoi78pn7y91IQ&e=1620690554
 
 #EXTINF:-1 tvg-id="Hbofamily" group-title="HBO Premium", HBO Family 
-
+https://sgynhk35h4v06h77.ezcdn285.net:8443/hls/mfobze65eqg.m3u8?s=ZCPhNKOMCTZ98a75z9bPkg&e=1620690615
 
 #EXTINF:-1 tvg-id="HBOSignature" group-title="HBO Premium", HBO Signature 
-
+https://sgynhk35h4v06h77.ezcdn285.net:8443/hls/g05mnm.m3u8?s=Dg4DYVAqXZZDgPVpHveijA&e=1620690545
 
 #EXTINF:-1 tvg-id="HBOXtreme" group-title="HBO Premium", HBO Xtreme 
-
+https://sgynhk35h4v06h77.ezcdn285.net:8443/hls/way71f4yp5a3.m3u8?s=s5SkT2DpNYFI1_vf2zNuTg&e=1620690516
 
 #EXTINF:-1 tvg-id="HBOMundi" group-title="HBO Premium", HBO Mundi
-
+https://sgynhk35h4v06h77.ezcdn285.net:8443/hls/8nviuzdhm5jnu.m3u8?s=a1nfBsWTnpRDiL1OjPlzYg&e=1620690533
 
 #EXTINF:-1 tvg-id="Paramount" group-title="Cable Básico", Paramount Channel
 
