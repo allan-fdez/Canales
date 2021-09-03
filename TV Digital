@@ -1,64 +1,9 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="DistritoComedia" group-title="Kids", Distrito Comedia 
-https://ft33pgzx58.azcdn728.net:8443/hls/3cmcveklru0.m3u8?s=hzudeEya_XKNQr186YbbZw&e=1626730202 
+https://s6nl7uo16tgdx26s.azcdn728.net:8443/hls/3cmcveklru0.m3u8?s=XV-FmiTE_nnA1OIp_l3wZA&e=1630709885
 
 #EXTINF:-1 tvg-id="Canal5" group-title="Kids", Canal 5 
-https://ft33pgzx58.azcdn728.net:8443/hls/da0s08.m3u8?s=2lVU_IT5ooMxNHd4keLKxg&e=1626730199 
+https://s6nl7uo16tgdx26s.azcdn728.net:8443/hls/da0s08.m3u8?s=_-9llCKutjbkz_MrKlV7Zw&e=1630709952
 
 #EXTINF:-1 tvg-id="Azteca7" group-title="Kids", Azteca 7 
-https://ft33pgzx58.azcdn728.net:8443/hls/yv4z9a.m3u8?s=46VoR5rZqL4XFBeJZZTBhQ&e=1626730194 
-
-#EXTINF:-1 tvg-id="BitMe" group-title="Kids", BitMe 
-
-
-#EXTINF:-1 tvg-id="FoxAction" group-title="FOX Premium", Fox Action 
-https://ft33pgzx58.azcdn728.net:8443/hls/4612rwe.m3u8?s=dcHPEx56iAvdcO6btX2n9g&e=1626730338 
-
-#EXTINF:-1 tvg-id="FoxSeries" group-title="FOX Premium", Fox Series 
-https://ft33pgzx58.azcdn728.net:8443/hls/in515ybo3y.m3u8?s=pj3jzLpCAxdlmEFhuhiCng&e=1626730337 
-
-#EXTINF:-1 tvg-id="FoxFamily" group-title="FOX Premium", Fox Family 
-https://ft33pgzx58.azcdn728.net:8443/hls/goks9npik9.m3u8?s=u04Cx2zWaPa5c2tla8pKyg&e=1626730326 
-
-#EXTINF:-1 tvg-id="FoxMovies" group-title="FOX Premium", Fox Movies 
-https://ft33pgzx58.azcdn728.net:8443/hls/4dtc368405sw4mo.m3u8?s=ICnBj4F3vNraBhQFsRz_fQ&e=1626730323 
-
-#EXTINF:-1 tvg-id="FoxComedy" group-title="FOX Premium", Fox Comedy 
-https://ft33pgzx58.azcdn728.net:8443/hls/pnc0det5nknvqo.m3u8?s=0JOmMBZADhGjrfJUVmlEjA&e=1626730321 
-
-#EXTINF:-1 tvg-id="FoxCinema" group-title="FOX Premium", Fox Cinema 
-https://ft33pgzx58.azcdn728.net:8443/hls/5s69x53079q85.m3u8?s=vBvHGpncA7d79iXcbXPclA&e=1626730313 
-
-#EXTINF:-1 tvg-id="FoxClassics" group-title="FOX Premium", Fox Classics
-https://ft33pgzx58.azcdn728.net:8443/hls/nmgmf0p714cb.m3u8?s=qjFVBG4BuWm0iE279qdFvw&e=1626730310 
-
-#EXTINF:-1 tvg-id="HBO2" group-title="HBO Premium", HBO 2 
-
-
-#EXTINF:-1 tvg-id="HBOPop" group-title="HBO Premium", HBO Pop 
-
-
-#EXTINF:-1 tvg-id="HboPlus" group-title="HBO Premium", HBO+ 
-
-
-#EXTINF:-1 tvg-id="Hbofamily" group-title="HBO Premium", HBO Family 
-
-
-#EXTINF:-1 tvg-id="HBOSignature" group-title="HBO Premium", HBO Signature 
-
-
-#EXTINF:-1 tvg-id="HBOXtreme" group-title="HBO Premium", HBO Xtreme 
-
-
-#EXTINF:-1 tvg-id="HBOMundi" group-title="HBO Premium", HBO Mundi
-
-
-#EXTINF:-1 tvg-id="Paramount" group-title="Cable Básico", Paramount Channel
-
-
-#EXTINF:-1 tvg-id="GoldenPlus" group-title="Cable Básico", Golden Plus
-
-
-#EXTINF:-1 tvg-id="GoldenEdge" group-title="Cable Básico", Golden Edge  
-
-
-#EXTINF:-1 tvg-id="TNTSeries" group-title="Cable Básico", TNT Series
+https://s6nl7uo16tgdx26s.azcdn728.net:8443/hls/yv4z9a.m3u8?s=xkLR1R6dWg37eGv9A157vA&e=1630709933
